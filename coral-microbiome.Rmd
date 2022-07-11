@@ -1,0 +1,90 @@
+---
+title: "Coral Microbiome"
+author: "Ahmed Moustafa"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries,message=FALSE,warning=FALSE}
+library(tidyverse)
+library(ggtree)
+library(ggstar)
+library(ggtreeExtra)
+library(phytools)
+library(ggnewscale)
+```
+
+```{r load-taxa-info}
+taxa = read_tsv("data/taxa.tsv", col_types = 'ccf')
+head(taxa)
+```
+
+```{r load-relationships}
+relationships = read_tsv("data/relationships.tsv")
+head(relationships)
+```
+
+
+```{r load-the-tree}
+tree = read.tree("/home/ahmed/projects/coral-microbiome/tree/coral-microbiome.tre")
+tree
+```
+
+```{r plot-tree1}
+p1 = ggtree(tree, layout = "circular", open.angle = 10) +
+  geom_tiplab(aes(subset = label %in% relationships$label,
+                  label = gsub(".*__", "", gsub("--.*", "", label))),
+              align = TRUE,
+              size = 3)
+
+p1
+```
+
+```{r plot-tree2}
+p2 = p1 + 
+      geom_fruit(
+          data = taxa,
+          geom = geom_star,
+          mapping = aes(y=label, fill = phylum),
+          position = "identity",
+          starshape = 28,
+          starstroke = 0.2,
+          alpha = 0.8,
+          size = 2) +
+  labs (fill = "Phylum") + 
+  guides(fill=guide_legend(ncol = 2))
+
+p2
+
+```
+```{r plot-tree3}
+
+p3 = p2 +
+  new_scale_fill() +
+  
+  geom_fruit(
+    data = relationships,
+    geom = geom_tile,
+    mapping = aes(y = label, x = type, fill = type),
+    alpha = 0.8,
+    offset = 0.5) +
+   
+  scale_fill_manual(
+          name = "Relationship",
+          values=c("#4daf4a", "#e41a1c"))
+
+p3
+
+```
+```{r save-tree-figure}
+ggsave("figures/coral_microbiome.pdf", width = 15, height = 15)
+```
+
+
+```{r session-info}
+sessionInfo()
+```
