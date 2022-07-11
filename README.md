@@ -1,2 +1,1 @@
-# coral-microbiome
-Coral Microbiome
+# Coral Microbiome
