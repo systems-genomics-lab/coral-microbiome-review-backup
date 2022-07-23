@@ -49,6 +49,7 @@ cat parasitic.txt | awk '{print $1"\tParasitic"}' >> relationships.tsv
 grep -f Symbiodinium.txt Hug2016.filtered.txt  | awk '{print $1"\tSymbiodinium-associated"}' >> relationships.tsv
 
 # Compile all coral microbiome (beneficial, parasitic, and Symbiodinium-associated) into a single fasta file
+cp coral-microbiome_init.fas coral-microbiome.fas
 cat beneficial.fas >> coral-microbiome.fas
 cat parasitic.fas >> coral-microbiome.fas
 
