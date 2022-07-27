@@ -30,7 +30,7 @@ grep '>' Hug2016.aln | sed 's/>//g' | sort -u > Hug2016.txt
 
 # Remove ambiguous sequences
 set +e
-cat Hug2016.txt | grep -v -i uncultured Hug2016.txt | awk '{if (length($1) > 30) print $1;}' |  sort -u > Hug2016.filtered.txt
+cat Hug2016.txt | grep -v -i uncultured Hug2016.txt | grep -v -i unclassified | awk '{if (length($1) > 30) print $1;}' |  sort -u > Hug2016.filtered.txt
 set -e
 seqkit grep -f Hug2016.filtered.txt Hug2016.aln > Hug2016.filtered.aln
 
