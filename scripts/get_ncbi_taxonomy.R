@@ -10,7 +10,7 @@ args = commandArgs(trailingOnly=TRUE)
 infile = args[1]
 outfile = args[2]
 
-t1 = read.table(infile, header = FALSE, col.names =c("taxid"))
+t1 = read_tsv(infile)
 
 ids = sort(unique(unlist(t1$taxid)))
 
@@ -64,8 +64,11 @@ head(t6)
 t7 = t1 %>% left_join(t6)
 head(t7)
 
+t8 = t7 %>% mutate (path = paste (superkingdom, phylum, class, order, family, genus, species, sep = "➤")) %>% arrange(path)
+head(t8)
+
 nrow(t1)
-nrow(t7)
+nrow(t8)
 
-write_tsv(t7, outfile)
 
+write_tsv(t8, outfile)
