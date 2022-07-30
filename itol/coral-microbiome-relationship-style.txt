@@ -1,0 +1,83 @@
+DATASET_STYLE
+
+SEPARATOR TAB
+
+DATASET_LABEL	Relationship_Label
+
+COLOR	#ffff00
+
+DATA
+
+AB023371.1.1468	label	node	#000000	3	bold
+AB537169.1.1458	label	node	#000000	3	bold
+AB681109.1.1408	label	node	#000000	3	bold
+AF139992.1.1427	label	node	#000000	3	bold
+AF529060.1.1489	label	node	#000000	3	bold
+AJ441006.1.1491	label	node	#000000	3	bold
+AM945651.1.1344	label	node	#000000	3	bold
+AP018045.3169959.3171497	label	node	#000000	3	bold
+AY671975.1.1408	label	node	#000000	3	bold
+CP025135.29151.30694	label	node	#000000	3	bold
+DQ915627.1.1305	label	node	#000000	3	bold
+EF028328.1.1487	label	node	#000000	3	bold
+EU282460.1.1463	label	node	#000000	3	bold
+FJ169991.1.1507	label	node	#000000	3	bold
+GU118862.1.1444	label	node	#000000	3	bold
+HQ908675.1.1447	label	node	#000000	3	bold
+JN979554.1.1494	label	node	#000000	3	bold
+KC005305.1.1442	label	node	#000000	3	bold
+KR493097.1.1472	label	node	#000000	3	bold
+KU955357.1.1449	label	node	#000000	3	bold
+MF449188.1.1201	label	node	#000000	3	bold
+MF461058.1.1452	label	node	#000000	3	bold
+X74686.1.1466	label	node	#000000	3	bold
+X76441.1.1502	label	node	#000000	3	bold
+AY643537.1.1457	label	node	#000000	3	bold
+CP012950.192554.194094	label	node	#000000	3	bold
+CP013046.5295338.5296889	label	node	#000000	3	bold
+CP018308.1274342.1275900	label	node	#000000	3	bold
+CP020453.3389789.3391345	label	node	#000000	3	bold
+CP023398.2907773.2909285	label	node	#000000	3	bold
+CP025537.599880.601438	label	node	#000000	3	bold
+HQ890464.1.1471	label	node	#000000	3	bold
+JQ516457.1.1387	label	node	#000000	3	bold
+JQ663917.1.1462	label	node	#000000	3	bold
+KM820506.1.1479	label	node	#000000	3	bold
+MLAW01000094.181.1675	label	node	#000000	3	bold
+U53824.1.1405	label	node	#000000	3	bold
+AAMV01000002.66945.68394	label	node	#000000	3	bold
+AAOT01000021.1.1840	label	node	#000000	3	bold
+AB012760.1.1394	label	node	#000000	3	bold
+AF513441.1.1384	label	node	#000000	3	bold
+AJ748748.1.1455	label	node	#000000	3	bold
+AJ844281.1.1449	label	node	#000000	3	bold
+AONI01000015.1107796.1109261	label	node	#000000	3	bold
+ARFW01000012.454.1919	label	node	#000000	3	bold
+ATVN01000030.4530.5989	label	node	#000000	3	bold
+AUCM01000052.346.1790	label	node	#000000	3	bold
+AUIJ01000005.642.2086	label	node	#000000	3	bold
+AY005463.1.1431	label	node	#000000	3	bold
+AY527274.1.1364	label	node	#000000	3	bold
+CP000264.4083217.4084677	label	node	#000000	3	bold
+CP000830.617247.618708	label	node	#000000	3	bold
+CP002999.818658.820171	label	node	#000000	3	bold
+CP004393.926009.927479	label	node	#000000	3	bold
+CP012908.234357.235823	label	node	#000000	3	bold
+CP013068.2199151.2200635	label	node	#000000	3	bold
+CP025808.489727.491191	label	node	#000000	3	bold
+CYSG01000002.363197.364673	label	node	#000000	3	bold
+DQ120728.1.1424	label	node	#000000	3	bold
+DQ342315.1.1389	label	node	#000000	3	bold
+DQ640643.1.1428	label	node	#000000	3	bold
+DQ917760.1.1508	label	node	#000000	3	bold
+EU592372.1.1428	label	node	#000000	3	bold
+FJ232451.1.1429	label	node	#000000	3	bold
+FP103042.1339137.1340613	label	node	#000000	3	bold
+HE590855.1.1412	label	node	#000000	3	bold
+HM050420.1.1431	label	node	#000000	3	bold
+JQ327964.1.1453	label	node	#000000	3	bold
+JQEY01000008.80289.81732	label	node	#000000	3	bold
+JX131369.1.1450	label	node	#000000	3	bold
+KF924609.1.1411	label	node	#000000	3	bold
+KY770248.1.1366	label	node	#000000	3	bold
+LT629784.4128770.4130260	label	node	#000000	3	bold
