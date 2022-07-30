@@ -1,0 +1,1672 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+ASMQ01000007.23975.25425	range	#93C7E1	Candidatus Aenigmarchaeota
+ASMO01000004.23831.25277	range	#93C7E1	Candidatus Aenigmarchaeota
+MNZY01000038.10559.12029	range	#D028EC	Candidatus Altiarchaeota
+MCBF01000001.541619.543111	range	#D028EC	Candidatus Altiarchaeota
+AQRS01000026.3862.5336	range	#E561E3	Candidatus Diapherotrites
+ASMR01000001.18974.20405	range	#E561E3	Candidatus Diapherotrites
+ASMS01000005.11641.13084	range	#E561E3	Candidatus Diapherotrites
+CP000968.1326582.1328013	range	#F189B4	Candidatus Korarchaeota
+JYIM01000321.1.1179	range	#EAEEB9	Candidatus Lokiarchaeota
+CP015363.1594125.1595594	range	#AB5B4C	Candidatus Thermoplasmatota
+AE017261.470727.472195	range	#AB5B4C	Candidatus Thermoplasmatota
+M38637.979.2449	range	#AB5B4C	Candidatus Thermoplasmatota
+CP002916.334433.335897	range	#AB5B4C	Candidatus Thermoplasmatota
+CP001742.176279.177775	range	#BF90E4	Crenarchaeota
+AYMB01000008.96097.97593	range	#BF90E4	Crenarchaeota
+AB087499.1.1466	range	#BF90E4	Crenarchaeota
+CP003321.1081655.1083145	range	#BF90E4	Crenarchaeota
+CP000816.728379.729800	range	#BF90E4	Crenarchaeota
+CP002098.1279164.1280671	range	#BF90E4	Crenarchaeota
+CP002051.1270431.1271941	range	#BF90E4	Crenarchaeota
+CP003531.422343.423841	range	#BF90E4	Crenarchaeota
+CP001939.52824.54320	range	#BF90E4	Crenarchaeota
+JF509453.1.1510	range	#BF90E4	Crenarchaeota
+CP013011.538908.540404	range	#BF90E4	Crenarchaeota
+CP003423.1068522.1070023	range	#BF90E4	Crenarchaeota
+CP002535.1296061.1297559	range	#BF90E4	Crenarchaeota
+ASRH01000005.110739.112232	range	#BF90E4	Crenarchaeota
+CP000682.1705274.1706771	range	#BF90E4	Crenarchaeota
+AHKJ01000108.121469.122953	range	#BF90E4	Crenarchaeota
+LT549890.891113.892713	range	#BF90E4	Crenarchaeota
+APJY01000001.782068.783547	range	#BF90E4	Crenarchaeota
+X14835.987.2495	range	#BF90E4	Crenarchaeota
+AB013926.1.1642	range	#BF90E4	Crenarchaeota
+AB078332.1.1498	range	#BF90E4	Crenarchaeota
+CP001014.690421.692612	range	#BF90E4	Crenarchaeota
+CP002590.1330555.1332075	range	#BF90E4	Crenarchaeota
+CP002100.631480.632991	range	#BF90E4	Crenarchaeota
+AQYM01000016.22627.24108	range	#BF90E4	Crenarchaeota
+AQVF01000003.15755.17233	range	#BF90E4	Crenarchaeota
+EU240001.1.902	range	#BF90E4	Crenarchaeota
+HM448141.1.1385	range	#BF90E4	Crenarchaeota
+CP006577.1951165.1952544	range	#AD8895	Euryarchaeota
+CP001899.1403988.1405498	range	#AD8895	Euryarchaeota
+LQMP01000030.68979.70454	range	#AD8895	Euryarchaeota
+DQ854818.1.1472	range	#AD8895	Euryarchaeota
+AB663392.1.1473	range	#AD8895	Euryarchaeota
+AB663400.1.1472	range	#AD8895	Euryarchaeota
+AJ586107.1.1473	range	#AD8895	Euryarchaeota
+AB663432.1.1467	range	#AD8895	Euryarchaeota
+AQXI01000001.2128739.2130197	range	#AD8895	Euryarchaeota
+AB477223.1.1434	range	#AD8895	Euryarchaeota
+AJ496185.1.1473	range	#AD8895	Euryarchaeota
+AB663384.1.1472	range	#AD8895	Euryarchaeota
+AB771431.1.1473	range	#AD8895	Euryarchaeota
+JN206648.1.1471	range	#AD8895	Euryarchaeota
+FR746099.1835281.1836752	range	#AD8895	Euryarchaeota
+JF421969.1.1473	range	#AD8895	Euryarchaeota
+AGCX01000009.4054.5511	range	#AD8895	Euryarchaeota
+JF979130.1.1440	range	#AD8895	Euryarchaeota
+CP001366.161307.162776	range	#AD8895	Euryarchaeota
+CP002988.2130478.2131950	range	#AD8895	Euryarchaeota
+AB477974.1.1431	range	#AD8895	Euryarchaeota
+AM117571.1.1372	range	#AD8895	Euryarchaeota
+AB004878.1.1473	range	#AD8895	Euryarchaeota
+AM039978.1.1378	range	#AD8895	Euryarchaeota
+AB663457.1.1472	range	#AD8895	Euryarchaeota
+AB477231.1.1433	range	#AD8895	Euryarchaeota
+AB663467.1.1472	range	#AD8895	Euryarchaeota
+KP861849.1.1430	range	#AD8895	Euryarchaeota
+CP005962.1165754.1167224	range	#AD8895	Euryarchaeota
+CP002772.812691.814171	range	#AD8895	Euryarchaeota
+CP000678.333483.334957	range	#AD8895	Euryarchaeota
+CP000102.408655.410144	range	#AD8895	Euryarchaeota
+AE000666.1718787.1720265	range	#AD8895	Euryarchaeota
+CP002278.26992.28471	range	#AD8895	Euryarchaeota
+L77117.638452.639929	range	#AD8895	Euryarchaeota
+CP002737.1395857.1397326	range	#AD8895	Euryarchaeota
+KC139247.1.1400	range	#AD8895	Euryarchaeota
+CP002792.716965.718433	range	#AD8895	Euryarchaeota
+AM114193.2083318.2084792	range	#AD8895	Euryarchaeota
+CP000559.1015589.1017053	range	#AD8895	Euryarchaeota
+HE964772.565064.566525	range	#AD8895	Euryarchaeota
+AGCO01000001.611619.613073	range	#AD8895	Euryarchaeota
+CP002117.2355586.2357053	range	#AD8895	Euryarchaeota
+M59142.1.1469	range	#AD8895	Euryarchaeota
+AB162774.1.1433	range	#AD8895	Euryarchaeota
+CP000780.2250513.2251978	range	#AD8895	Euryarchaeota
+CP001338.1211335.1212796	range	#AD8895	Euryarchaeota
+CP000254.3501525.3502990	range	#AD8895	Euryarchaeota
+JF789589.1.1440	range	#AD8895	Euryarchaeota
+JMIY01000002.512616.513910	range	#AD8895	Euryarchaeota
+CP000300.1876623.1878098	range	#AD8895	Euryarchaeota
+CP002069.48670.50146	range	#AD8895	Euryarchaeota
+CP001994.1905694.1907168	range	#AD8895	Euryarchaeota
+CP003083.1452985.1454458	range	#AD8895	Euryarchaeota
+CP003362.2364537.2365901	range	#AD8895	Euryarchaeota
+CP002101.1236823.1238300	range	#AD8895	Euryarchaeota
+CP000477.1617193.1618665	range	#AD8895	Euryarchaeota
+AE009439.516778.518289	range	#AD8895	Euryarchaeota
+CP006019.1527358.1528841	range	#AD8895	Euryarchaeota
+AE009950.136930.138426	range	#AD8895	Euryarchaeota
+AP006878.2022864.2024361	range	#AD8895	Euryarchaeota
+AM229259.1.1344	range	#AD8895	Euryarchaeota
+AJ318041.1.1500	range	#AD3079	Nanoarchaeota
+AWOG01000036.535.1990	range	#AD3079	Nanoarchaeota
+ASMP01000002.125551.126982	range	#AD3079	Nanoarchaeota
+CP007536.892626.894095	range	#3DC37E	Thaumarchaeota
+AF083072.21771.23243	range	#3DC37E	Thaumarchaeota
+CP003842.945953.947418	range	#3DC37E	Thaumarchaeota
+AVSQ01000019.27413.28870	range	#3DC37E	Thaumarchaeota
+AWOC01000023.11513.12991	range	#3DC37E	Thaumarchaeota
+ASPK01000003.14512.15983	range	#3DC37E	Thaumarchaeota
+CP010424.162769.164251	range	#F3FAD8	Unclassified Archaea
+CP010425.1043335.1044799	range	#F3FAD8	Unclassified Archaea
+JWKV01000003.14465.15932	range	#F3FAD8	Unclassified Archaea
+CP010426.667721.669193	range	#F3FAD8	Unclassified Archaea
+AB193974.1.1440	range	#F3FAD8	Unclassified Archaea
+AB802715.1.1398	range	#F3FAD8	Unclassified Archaea
+AF325186.1.1402	range	#F3FAD8	Unclassified Archaea
+AY835420.1.1448	range	#F3FAD8	Unclassified Archaea
+FJ264731.1.945	range	#F3FAD8	Unclassified Archaea
+JX000728.1.1071	range	#F3FAD8	Unclassified Archaea
+KJ882222.1.1438	range	#F3FAD8	Unclassified Archaea
+KP308705.3478.4946	range	#F3FAD8	Unclassified Archaea
+KP308716.3069.4526	range	#F3FAD8	Unclassified Archaea
+KP308719.65128.66503	range	#F3FAD8	Unclassified Archaea
+KP308748.17248.18707	range	#F3FAD8	Unclassified Archaea
+KP308750.18552.19877	range	#F3FAD8	Unclassified Archaea
+KX213929.1.1358	range	#F3FAD8	Unclassified Archaea
+AYLJ01000015.6614.8072	range	#F3FAD8	Unclassified Archaea
+AYLK01000292.9273.10729	range	#F3FAD8	Unclassified Archaea
+AYLL01000252.31846.33305	range	#F3FAD8	Unclassified Archaea
+AYLI01000329.16498.17954	range	#F3FAD8	Unclassified Archaea
+AB050206.1.1687	range	#F3FAD8	Unclassified Archaea
+GU234254.1.1322	range	#F3FAD8	Unclassified Archaea
+JQ226617.1.1322	range	#F3FAD8	Unclassified Archaea
+CP001472.2863353.2864776	range	#BEF539	Acidobacteria
+CP000360.5260068.5261561	range	#BEF539	Acidobacteria
+HQ687087.1.1488	range	#BEF539	Acidobacteria
+CP002467.3872526.3874013	range	#BEF539	Acidobacteria
+AUAU01000033.237.1756	range	#BEF539	Acidobacteria
+X77215.1.1501	range	#BEF539	Acidobacteria
+KM200555.1.1459	range	#BEF539	Acidobacteria
+CP001631.1616915.1618412	range	#9A9A51	Actinobacteria
+AF251436.1.1466	range	#9A9A51	Actinobacteria
+AP012057.2930700.2932220	range	#9A9A51	Actinobacteria
+CP000481.1397655.1399163	range	#9A9A51	Actinobacteria
+AB538436.1.1502	range	#9A9A51	Actinobacteria
+CP008802.2102299.2103843	range	#9A9A51	Actinobacteria
+LS483427.394538.396056	range	#9A9A51	Actinobacteria
+ATUF01000003.333792.335311	range	#9A9A51	Actinobacteria
+AQZN01000011.138144.139687	range	#9A9A51	Actinobacteria
+AJ278695.1.1412	range	#9A9A51	Actinobacteria
+CP015407.787503.789054	range	#9A9A51	Actinobacteria
+CP001849.1589621.1591094	range	#9A9A51	Actinobacteria
+AJ865863.1.1444	range	#9A9A51	Actinobacteria
+CP001700.6297778.6299284	range	#9A9A51	Actinobacteria
+CP006365.1978369.1979896	range	#9A9A51	Actinobacteria
+AJ920289.1.1486	range	#9A9A51	Actinobacteria
+CP001802.2038665.2040175	range	#9A9A51	Actinobacteria
+LC072670.1.1511	range	#9A9A51	Actinobacteria
+EF564379.1.1486	range	#9A9A51	Actinobacteria
+CP015529.5124999.5126525	range	#9A9A51	Actinobacteria
+AB243007.1.1478	range	#9A9A51	Actinobacteria
+LC025527.1.1472	range	#9A9A51	Actinobacteria
+CT573213.5633232.5634741	range	#9A9A51	Actinobacteria
+FO117623.163561.165067	range	#9A9A51	Actinobacteria
+AY462042.1.1499	range	#9A9A51	Actinobacteria
+EU660053.1.1421	range	#9A9A51	Actinobacteria
+FJ157186.1.1519	range	#9A9A51	Actinobacteria
+GQ260079.1.1482	range	#9A9A51	Actinobacteria
+CP001618.1605359.1606875	range	#9A9A51	Actinobacteria
+FN356976.1.1483	range	#9A9A51	Actinobacteria
+HQ730135.1.1483	range	#9A9A51	Actinobacteria
+CP001964.1209818.1211325	range	#9A9A51	Actinobacteria
+LT629776.786584.788110	range	#9A9A51	Actinobacteria
+AB537169.1.1458	range	#9A9A51	Actinobacteria
+X91032.1.1513	range	#9A9A51	Actinobacteria
+X91034.1.1511	range	#9A9A51	Actinobacteria
+AQXW01000002.199347.200854	range	#9A9A51	Actinobacteria
+CP008889.2851749.2853279	range	#9A9A51	Actinobacteria
+BAGZ01000028.3708.5222	range	#9A9A51	Actinobacteria
+LT906453.527475.528983	range	#9A9A51	Actinobacteria
+BAHD01000131.114.1637	range	#9A9A51	Actinobacteria
+CP012070.2356687.2358215	range	#9A9A51	Actinobacteria
+CP002343.1359051.1360560	range	#9A9A51	Actinobacteria
+AJ294413.1.1479	range	#9A9A51	Actinobacteria
+CAIZ01000036.11767.13274	range	#9A9A51	Actinobacteria
+MH698806.1.1504	range	#9A9A51	Actinobacteria
+LS483423.2582277.2583808	range	#9A9A51	Actinobacteria
+CP001686.739195.740721	range	#9A9A51	Actinobacteria
+AULD01000008.847.2348	range	#9A9A51	Actinobacteria
+ATXG01000026.18916.20423	range	#9A9A51	Actinobacteria
+AJKR01000002.555441.556954	range	#9A9A51	Actinobacteria
+CP021034.561118.562646	range	#9A9A51	Actinobacteria
+KC160880.1.1488	range	#9A9A51	Actinobacteria
+JPRS01000598.3975.5519	range	#9A9A51	Actinobacteria
+AJ312209.1.1514	range	#9A9A51	Actinobacteria
+ATWH01000032.3888.5402	range	#9A9A51	Actinobacteria
+EF587758.1.1390	range	#9A9A51	Actinobacteria
+AB012591.1.1488	range	#9A9A51	Actinobacteria
+AJ306835.1.1430	range	#9A9A51	Actinobacteria
+ATXT01000006.3842.5353	range	#9A9A51	Actinobacteria
+JX010948.1.1493	range	#9A9A51	Actinobacteria
+LT629694.311224.312751	range	#9A9A51	Actinobacteria
+KC160689.1.1490	range	#9A9A51	Actinobacteria
+EU622580.1.1491	range	#9A9A51	Actinobacteria
+AB004717.1.1520	range	#9A9A51	Actinobacteria
+CP013292.400306.401835	range	#9A9A51	Actinobacteria
+CP007490.515220.516621	range	#9A9A51	Actinobacteria
+AQXM01000028.3980.5490	range	#9A9A51	Actinobacteria
+AP009152.2127424.2128956	range	#9A9A51	Actinobacteria
+AB023371.1.1468	range	#9A9A51	Actinobacteria
+FJ607363.1.1411	range	#9A9A51	Actinobacteria
+ATXP01000006.269.1775	range	#9A9A51	Actinobacteria
+CP002379.1585101.1586632	range	#9A9A51	Actinobacteria
+AY228479.1.1503	range	#9A9A51	Actinobacteria
+EU603762.1.1490	range	#9A9A51	Actinobacteria
+CP021383.997679.999207	range	#9A9A51	Actinobacteria
+CP002810.3099142.3100651	range	#9A9A51	Actinobacteria
+AM709608.1.1450	range	#9A9A51	Actinobacteria
+AP012319.1197212.1198727	range	#9A9A51	Actinobacteria
+ARBL01000033.148.1647	range	#9A9A51	Actinobacteria
+AUAX01000066.51.1547	range	#9A9A51	Actinobacteria
+AB089241.1.1476	range	#9A9A51	Actinobacteria
+EU706350.1.1420	range	#9A9A51	Actinobacteria
+AY253863.1.1510	range	#9A9A51	Actinobacteria
+FJ464983.1.1511	range	#9A9A51	Actinobacteria
+DQ176646.1.1469	range	#9A9A51	Actinobacteria
+DQ830982.1.1472	range	#9A9A51	Actinobacteria
+AB042288.1.1486	range	#9A9A51	Actinobacteria
+AB729070.1.1482	range	#9A9A51	Actinobacteria
+CP025990.1424325.1425843	range	#9A9A51	Actinobacteria
+AF114799.1.1507	range	#9A9A51	Actinobacteria
+ARBI01000033.66.1574	range	#9A9A51	Actinobacteria
+AF328679.1.1509	range	#9A9A51	Actinobacteria
+AY183357.1.1506	range	#9A9A51	Actinobacteria
+CP007155.9695776.9697280	range	#9A9A51	Actinobacteria
+MKKE01000074.3467.4997	range	#9A9A51	Actinobacteria
+ARAX01000069.3733.5230	range	#9A9A51	Actinobacteria
+ATYX01000004.412909.414419	range	#9A9A51	Actinobacteria
+X72377.1.1445	range	#9A9A51	Actinobacteria
+U93332.1.1482	range	#9A9A51	Actinobacteria
+DQ208700.1.1446	range	#9A9A51	Actinobacteria
+AL939108.269793.271323	range	#9A9A51	Actinobacteria
+AWQV01000929.944.2479	range	#9A9A51	Actinobacteria
+KP277099.1.1525	range	#9A9A51	Actinobacteria
+AJ298058.1.1495	range	#9A9A51	Actinobacteria
+AB505224.1.1491	range	#9A9A51	Actinobacteria
+KF667495.1.1494	range	#9A9A51	Actinobacteria
+AJ441006.1.1491	range	#9A9A51	Actinobacteria
+MNXI01000065.10291.11835	range	#9A9A51	Actinobacteria
+CP001721.1457029.1458528	range	#9A9A51	Actinobacteria
+AB540986.1.1474	range	#9A9A51	Actinobacteria
+ABXJ01000150.1579.3071	range	#9A9A51	Actinobacteria
+CP002628.225677.227175	range	#9A9A51	Actinobacteria
+JN837493.1.1464	range	#9A9A51	Actinobacteria
+DQ789120.1.1474	range	#9A9A51	Actinobacteria
+AB306661.1.1469	range	#9A9A51	Actinobacteria
+AM747811.1.1450	range	#9A9A51	Actinobacteria
+CP001682.12849.14352	range	#9A9A51	Actinobacteria
+CP011402.2215596.2217112	range	#9A9A51	Actinobacteria
+AF292375.1.1500	range	#9A9A51	Actinobacteria
+AP012211.976973.978469	range	#9A9A51	Actinobacteria
+FP929047.78761.80257	range	#9A9A51	Actinobacteria
+EF422408.1.1425	range	#9A9A51	Actinobacteria
+CP000386.1337366.1338878	range	#9A9A51	Actinobacteria
+CP001854.3764582.3766117	range	#9A9A51	Actinobacteria
+AJ458464.1.1458	range	#9A9A51	Actinobacteria
+MELT01000136.4212.5780	range	#9A9A51	Actinobacteria
+AE000657.1192069.1193655	range	#B2E6D0	Aquificae
+CP002221.246761.248300	range	#B2E6D0	Aquificae
+CP002809.1243662.1245205	range	#B2E6D0	Aquificae
+CP001931.855654.857222	range	#B2E6D0	Aquificae
+CP002543.495064.496634	range	#B2E6D0	Aquificae
+CP002444.152859.154435	range	#B2E6D0	Aquificae
+HF951689.2845191.2846606	range	#F09F6F	Armatimonadetes
+CP007139.2216287.2217769	range	#F09F6F	Armatimonadetes
+MNXM01000314.15351.16726	range	#F09F6F	Armatimonadetes
+MNXN01000406.14791.16342	range	#F09F6F	Armatimonadetes
+APCU01000223.172.1731	range	#9DA4E6	Atribacterota
+CDPL01000047.22254.23821	range	#9DA4E6	Atribacterota
+AQRR01000038.5346.6898	range	#9DA4E6	Atribacterota
+ASOY01000050.152.1757	range	#9DA4E6	Atribacterota
+AWNT01000010.42863.44412	range	#9DA4E6	Atribacterota
+MEYG01000109.13423.15011	range	#9DA4E6	Atribacterota
+CR626927.3205531.3207063	range	#54CC5B	Bacteroidetes
+CP007034.620467.622007	range	#54CC5B	Bacteroidetes
+JN703378.1.1490	range	#54CC5B	Bacteroidetes
+ADLV01000001.353.1867	range	#54CC5B	Bacteroidetes
+AY742226.1.1523	range	#54CC5B	Bacteroidetes
+AB443949.1.1486	range	#54CC5B	Bacteroidetes
+AB547649.1.1485	range	#54CC5B	Bacteroidetes
+CP002345.191924.193439	range	#54CC5B	Bacteroidetes
+AP012203.2280282.2281801	range	#54CC5B	Bacteroidetes
+ACIJ02000018.407302.408819	range	#54CC5B	Bacteroidetes
+AB547652.1.1488	range	#54CC5B	Bacteroidetes
+CP003368.578899.580323	range	#54CC5B	Bacteroidetes
+CP003274.119147.120561	range	#54CC5B	Bacteroidetes
+ATXW01000002.1335795.1337303	range	#54CC5B	Bacteroidetes
+CP013291.1125030.1126580	range	#54CC5B	Bacteroidetes
+AP013044.700729.702233	range	#54CC5B	Bacteroidetes
+AP010656.1093341.1094861	range	#54CC5B	Bacteroidetes
+FR839023.1.1515	range	#54CC5B	Bacteroidetes
+AEWI01000135.106.1615	range	#54CC5B	Bacteroidetes
+AJKI01000048.277.1780	range	#54CC5B	Bacteroidetes
+CP015172.766065.767591	range	#54CC5B	Bacteroidetes
+CP007451.3387430.3388959	range	#54CC5B	Bacteroidetes
+CP001699.1725733.1727246	range	#54CC5B	Bacteroidetes
+CP007035.2227720.2229258	range	#54CC5B	Bacteroidetes
+CP003178.1184433.1185950	range	#54CC5B	Bacteroidetes
+ARFB01000021.118844.120350	range	#54CC5B	Bacteroidetes
+AM230484.1.1519	range	#54CC5B	Bacteroidetes
+CP001102.596541.598055	range	#54CC5B	Bacteroidetes
+CP003345.1227108.1228525	range	#54CC5B	Bacteroidetes
+FN396961.1.1502	range	#54CC5B	Bacteroidetes
+ANNU01000014.4110.5611	range	#54CC5B	Bacteroidetes
+AAXU02000001.1077624.1079133	range	#54CC5B	Bacteroidetes
+LT838813.1829942.1831356	range	#54CC5B	Bacteroidetes
+CP003281.1938930.1940342	range	#54CC5B	Bacteroidetes
+AMGM01000182.89.1598	range	#54CC5B	Bacteroidetes
+CP002955.3325804.3327315	range	#54CC5B	Bacteroidetes
+CP003346.67128.68539	range	#54CC5B	Bacteroidetes
+FM883672.1.1502	range	#54CC5B	Bacteroidetes
+AJYA01000021.1494.2996	range	#54CC5B	Bacteroidetes
+JMIH01000044.39.1569	range	#54CC5B	Bacteroidetes
+AB517712.1.1448	range	#54CC5B	Bacteroidetes
+ARPG01000002.2291892.2293379	range	#54CC5B	Bacteroidetes
+CP001769.7141933.7143427	range	#54CC5B	Bacteroidetes
+AJ310654.1.1488	range	#54CC5B	Bacteroidetes
+AB288293.1.1424	range	#54CC5B	Bacteroidetes
+M58791.1.1474	range	#54CC5B	Bacteroidetes
+AJ626894.1.1445	range	#54CC5B	Bacteroidetes
+CP006587.1654112.1655634	range	#54CC5B	Bacteroidetes
+ARDO01000013.184.1684	range	#54CC5B	Bacteroidetes
+CP002349.4141019.4142527	range	#54CC5B	Bacteroidetes
+AAWS01000012.387.1834	range	#54CC5B	Bacteroidetes
+KC005305.1.1442	range	#54CC5B	Bacteroidetes
+CP001619.4003859.4005353	range	#54CC5B	Bacteroidetes
+CP002961.2129439.2130927	range	#54CC5B	Bacteroidetes
+HE796683.606778.608275	range	#54CC5B	Bacteroidetes
+CAIT01000009.1963020.1964514	range	#54CC5B	Bacteroidetes
+ATXY01000007.94928.96413	range	#54CC5B	Bacteroidetes
+CP002305.2758378.2759866	range	#54CC5B	Bacteroidetes
+CP002859.1932891.1934383	range	#54CC5B	Bacteroidetes
+FN666240.1.1402	range	#54CC5B	Bacteroidetes
+CP003535.356311.357835	range	#54CC5B	Bacteroidetes
+CP002542.2752771.2754283	range	#54CC5B	Bacteroidetes
+CP003280.276026.277440	range	#54CC5B	Bacteroidetes
+HQ908675.1.1447	range	#54CC5B	Bacteroidetes
+KC476292.1.1485	range	#54CC5B	Bacteroidetes
+AY271622.1.1438	range	#54CC5B	Bacteroidetes
+JQ807811.1.1483	range	#54CC5B	Bacteroidetes
+EU021217.1.1519	range	#54CC5B	Bacteroidetes
+AB517710.1.1446	range	#54CC5B	Bacteroidetes
+CP013136.4371925.4373450	range	#54CC5B	Bacteroidetes
+CP002046.1256106.1257626	range	#54CC5B	Bacteroidetes
+CP002528.1864643.1866156	range	#54CC5B	Bacteroidetes
+AM398681.645428.646927	range	#54CC5B	Bacteroidetes
+HG315671.836361.837882	range	#54CC5B	Bacteroidetes
+AY883937.1.1474	range	#54CC5B	Bacteroidetes
+EU928746.1.1484	range	#54CC5B	Bacteroidetes
+AJ344134.1.1511	range	#54CC5B	Bacteroidetes
+KC160729.1.1481	range	#54CC5B	Bacteroidetes
+CU207366.676170.677696	range	#54CC5B	Bacteroidetes
+AJJU01000016.421.1936	range	#54CC5B	Bacteroidetes
+AJUG01000002.150496.151996	range	#54CC5B	Bacteroidetes
+AY195836.1.1514	range	#54CC5B	Bacteroidetes
+CP002825.34754.36261	range	#54CC5B	Bacteroidetes
+AANC01000011.208.1734	range	#54CC5B	Bacteroidetes
+CP002157.307217.308770	range	#54CC5B	Bacteroidetes
+KJ816860.1.1446	range	#54CC5B	Bacteroidetes
+DQ367409.1.1434	range	#54CC5B	Bacteroidetes
+CP002999.818658.820171	range	#54CC5B	Bacteroidetes
+AGZL01000034.1188.2693	range	#54CC5B	Bacteroidetes
+CP001397.2039941.2041454	range	#54CC5B	Bacteroidetes
+EF660466.1.1458	range	#54CC5B	Bacteroidetes
+CP004349.1312203.1313710	range	#54CC5B	Bacteroidetes
+APLF01000003.181285.182805	range	#54CC5B	Bacteroidetes
+CP001712.1335968.1337485	range	#54CC5B	Bacteroidetes
+CP012872.1701571.1703105	range	#54CC5B	Bacteroidetes
+JHZX01000001.1367369.1368869	range	#54CC5B	Bacteroidetes
+JQ352762.1.1371	range	#54CC5B	Bacteroidetes
+AB032508.1.1440	range	#54CC5B	Bacteroidetes
+CP018155.1486274.1487803	range	#54CC5B	Bacteroidetes
+DQ423479.1.1478	range	#54CC5B	Bacteroidetes
+FN377720.1.1517	range	#54CC5B	Bacteroidetes
+CP001650.1984317.1985839	range	#54CC5B	Bacteroidetes
+CP003156.1917540.1918950	range	#54CC5B	Bacteroidetes
+AGYA01000006.56697.58212	range	#54CC5B	Bacteroidetes
+AM773820.1.1462	range	#54CC5B	Bacteroidetes
+CP014340.496817.498338	range	#54CC5B	Bacteroidetes
+AF399914.1.1486	range	#54CC5B	Bacteroidetes
+AUAA01000078.1985.3481	range	#54CC5B	Bacteroidetes
+U87101.1.1462	range	#54CC5B	Bacteroidetes
+LT906475.1678952.1680456	range	#54CC5B	Bacteroidetes
+CP002455.812901.814408	range	#54CC5B	Bacteroidetes
+CP002691.2497956.2499459	range	#54CC5B	Bacteroidetes
+AM295254.1.1413	range	#54CC5B	Bacteroidetes
+AB278130.1.1432	range	#54CC5B	Bacteroidetes
+CP002831.1966058.1967577	range	#54CC5B	Bacteroidetes
+AEIH02000001.1451802.1453304	range	#54CC5B	Bacteroidetes
+DQ421387.1.1477	range	#54CC5B	Bacteroidetes
+CP002545.2984298.2985814	range	#54CC5B	Bacteroidetes
+CP003349.736606.738016	range	#54CC5B	Bacteroidetes
+X80994.2.1544	range	#54CC5B	Bacteroidetes
+AJ431335.1.1345	range	#54CC5B	Bacteroidetes
+AM040137.1.1493	range	#54CC5B	Bacteroidetes
+AQXH01000005.139455.140958	range	#45EDF4	Balneolaeota
+AQXG01000022.3861.5364	range	#45EDF4	Balneolaeota
+AP012051.541386.542944	range	#6490ED	Caldiserica
+KX123625.1.1453	range	#948DE2	candidate division CPR2
+MESY01000047.28923.30428	range	#D6D832	candidate division CPR3
+FP565575.1586103.1587651	range	#BDDDEF	candidate division NC10
+CP006914.618581.619995	range	#D5F07D	candidate division WWE3
+MEVN01000034.29821.31215	range	#D5F07D	candidate division WWE3
+MEWM01000072.23600.25154	range	#A867A0	candidate division Zixibacteria
+CP011268.323739.325220	range	#B0C486	Candidatus Absconditabacteria
+KX123388.1.2322	range	#ECDDDB	Candidatus Adlerbacteria
+KX123464.1.1579	range	#ECDDDB	Candidatus Adlerbacteria
+ASMM01000001.34673.36232	range	#99C7A1	Candidatus Aerophobetes
+ASMN01000059.2525.4105	range	#99C7A1	Candidatus Aerophobetes
+KX123387.1.2333	range	#DA794B	Candidatus Amesbacteria
+KX123399.1.2200	range	#DA794B	Candidatus Amesbacteria
+LCNU01000004.20467.21966	range	#DA794B	Candidatus Amesbacteria
+AWNU01000023.18534.20063	range	#CA99B5	Candidatus Aminicenantes
+KX123391.1.2305	range	#83E9E0	Candidatus Azambacteria
+KX123523.1.1506	range	#83E9E0	Candidatus Azambacteria
+KX123482.1.1555	range	#83E9E0	Candidatus Azambacteria
+KX123549.1.1496	range	#83E9E0	Candidatus Azambacteria
+LCDI01000005.1.1381	range	#83E9E0	Candidatus Azambacteria
+CP011210.155569.157035	range	#D3C797	Candidatus Beckwithbacteria
+KX123450.1.1620	range	#E48DA1	Candidatus Berkelbacteria
+KX123472.1.1560	range	#E48DA1	Candidatus Berkelbacteria
+CP011213.150228.151678	range	#E48DA1	Candidatus Berkelbacteria
+MNXR01000004.24028.25496	range	#E48DA1	Candidatus Berkelbacteria
+MNXS01000038.18004.19865	range	#E48DA1	Candidatus Berkelbacteria
+MEZX01000002.366279.368183	range	#E48DA1	Candidatus Berkelbacteria
+MEZY01000050.18847.20231	range	#E48DA1	Candidatus Berkelbacteria
+ASOB01000010.551.2094	range	#8EE3EE	Candidatus Bipolaricaulota
+ASMU01000034.8702.10220	range	#AD64BF	Candidatus Calescamantes
+KX123468.1.1560	range	#EB6AB6	Candidatus Campbellbacteria
+AWNX01000092.8321.9853	range	#CB94C9	Candidatus Cloacimonetes
+KX123395.1.2206	range	#D4A5F0	Candidatus Collierbacteria
+MHIT01000023.457.1981	range	#776BD6	Candidatus Colwellbacteria
+MHIW01000010.10068.11579	range	#776BD6	Candidatus Colwellbacteria
+MHIZ01000032.6820.8219	range	#776BD6	Candidatus Colwellbacteria
+KX123363.1.2876	range	#B1C349	Candidatus Curtissbacteria
+MFBU01000020.53721.55207	range	#B1C349	Candidatus Curtissbacteria
+LDXN01000013.3686.5241	range	#DC5D93	Candidatus Dadabacteria
+KX123375.1.2593	range	#EBF179	Candidatus Daviesbacteria
+KX123372.1.2642	range	#EBF179	Candidatus Daviesbacteria
+MFDF01000004.31426.32744	range	#EBF179	Candidatus Daviesbacteria
+MFFP01000027.251353.252878	range	#98EE4B	Candidatus Edwardsbacteria
+KX123636.1.1317	range	#D7A04B	Candidatus Falkowbacteria
+LBUW01000007.67956.69432	range	#D7A04B	Candidatus Falkowbacteria
+KX123555.1.1493	range	#D7A04B	Candidatus Falkowbacteria
+KX123590.1.1477	range	#D7A04B	Candidatus Falkowbacteria
+AWNZ01000028.5500.7107	range	#48BDDF	Candidatus Fervidibacteria
+KX123509.1.1525	range	#C6C9C8	Candidatus Gottesmanbacteria
+MFJY01000009.12081.13693	range	#C6C9C8	Candidatus Gottesmanbacteria
+ASND01000028.18390.19846	range	#EED362	Candidatus Gracilibacteria
+GQ354904.1.1355	range	#EED362	Candidatus Gracilibacteria
+ASNV01000007.13660.15190	range	#79F0D0	Candidatus Hydrogenedentes
+MTOJ01000048.1.1447	range	#98EFB6	Candidatus Hydrothermae
+MHJT01000020.21914.23398	range	#66B5BC	Candidatus Jacksonbacteria
+MHJW01000015.6568.8192	range	#66B5BC	Candidatus Jacksonbacteria
+LCPF01000001.10536.12010	range	#FCF0A5	Candidatus Jorgensenbacteria
+KX123380.1.2523	range	#FCF0A5	Candidatus Jorgensenbacteria
+LCQK01000003.64973.66448	range	#FCF0A5	Candidatus Jorgensenbacteria
+MHKE01000005.43804.45322	range	#A56575	Candidatus Kerfeldbacteria
+MNVB01000064.3653.5151	range	#EC9F34	Candidatus Kuenenbacteria
+AQSL01000078.2339.3877	range	#4FD6ED	Candidatus Latescibacteria
+ASMB01000010.13141.14680	range	#4FD6ED	Candidatus Latescibacteria
+AQRO01000115.17633.19169	range	#4FD6ED	Candidatus Latescibacteria
+MNYS01000006.126767.128533	range	#58F2E2	Candidatus Levybacteria
+KX123621.1.1454	range	#58F2E2	Candidatus Levybacteria
+KX123471.1.1562	range	#58F2E2	Candidatus Levybacteria
+KX123592.1.1475	range	#58F2E2	Candidatus Levybacteria
+MHLE01000021.4132.5633	range	#E2F662	Candidatus Liptonbacteria
+KX123513.1.1520	range	#E9DA88	Candidatus Magasanikbacteria
+KX123385.1.2350	range	#E9DA88	Candidatus Magasanikbacteria
+LCLH01000025.1638.3141	range	#E9DA88	Candidatus Magasanikbacteria
+LCEK01000024.7313.8803	range	#E9DA88	Candidatus Magasanikbacteria
+MFQT01000006.986.2519	range	#E9DA88	Candidatus Magasanikbacteria
+MFRI01000031.4327.5856	range	#ECC1E4	Candidatus Margulisbacteria
+ASZK01000001.85035.86587	range	#CBF1B2	Candidatus Marinimicrobia
+AYLG01000001.49867.51409	range	#CBF1B2	Candidatus Marinimicrobia
+ASPI01000040.483.2021	range	#CBF1B2	Candidatus Marinimicrobia
+ASPJ01000020.8825.10366	range	#CBF1B2	Candidatus Marinimicrobia
+AQSA01000023.8453.9992	range	#CBF1B2	Candidatus Marinimicrobia
+MOYD01000062.205.1704	range	#79C387	Candidatus Melainabacteria
+MOYA01000001.246169.247640	range	#79C387	Candidatus Melainabacteria
+MFRJ01000085.18042.19564	range	#79C387	Candidatus Melainabacteria
+CP017245.1475134.1476659	range	#79C387	Candidatus Melainabacteria
+MFRQ01000138.9265.10792	range	#79C387	Candidatus Melainabacteria
+AQSN01000027.16246.17745	range	#AFF0F1	Candidatus Microgenomates
+AQSF01000009.11072.12546	range	#AFF0F1	Candidatus Microgenomates
+ASNY01000018.1885.3380	range	#AFF0F1	Candidatus Microgenomates
+LCPX01000023.9803.11291	range	#EA96F2	Candidatus Moranbacteria
+KX123456.1.1611	range	#EA96F2	Candidatus Moranbacteria
+MNYX01000024.42.1533	range	#53A893	Candidatus Nomurabacteria
+KX123540.1.1493	range	#53A893	Candidatus Nomurabacteria
+LCHH01000004.6177.7757	range	#53A893	Candidatus Nomurabacteria
+KX123463.1.1595	range	#53A893	Candidatus Nomurabacteria
+LBOM01000001.40597.42176	range	#53A893	Candidatus Nomurabacteria
+LBRP01000001.269775.271382	range	#53A893	Candidatus Nomurabacteria
+ASOC01000103.4482.6034	range	#6FEA9D	Candidatus Omnitrophica
+MHFU01000153.2840.4410	range	#6FEA9D	Candidatus Omnitrophica
+AQSZ01000059.14608.16151	range	#6FEA9D	Candidatus Omnitrophica
+MNZB01000003.188030.189564	range	#BAACC0	Candidatus Pacebacteria
+LCLP01000002.50904.52405	range	#BAACC0	Candidatus Pacebacteria
+ASKX01000004.3232.4703	range	#634169	Candidatus Parcubacteria
+AWSN01000001.338194.339805	range	#634169	Candidatus Parcubacteria
+ASKW01000012.8631.10171	range	#634169	Candidatus Parcubacteria
+ASNX01000003.12819.14290	range	#634169	Candidatus Parcubacteria
+LJNP01000003.17868.19385	range	#634169	Candidatus Parcubacteria
+CP013062.1019941.1021401	range	#EFC62A	Candidatus Peregrinibacteria
+MFYO01000022.44733.46211	range	#EFC62A	Candidatus Peregrinibacteria
+MNZJ01000031.6394.7955	range	#EFC62A	Candidatus Peregrinibacteria
+KX123604.1.1469	range	#EFC62A	Candidatus Peregrinibacteria
+KX123616.1.1459	range	#EFC62A	Candidatus Peregrinibacteria
+KX123620.1.1454	range	#EFC62A	Candidatus Peregrinibacteria
+LBWJ01000011.28719.30177	range	#EFC62A	Candidatus Peregrinibacteria
+KX123619.1.1456	range	#EFC62A	Candidatus Peregrinibacteria
+LBWM01000003.166997.168491	range	#EFC62A	Candidatus Peregrinibacteria
+LCFW01000014.22129.23630	range	#EFC62A	Candidatus Peregrinibacteria
+AQTV01000144.6373.7900	range	#DCD152	Candidatus Poribacteria
+MNZM01000024.9533.11149	range	#81CBFA	Candidatus Roizmanbacteria
+KX123512.1.1520	range	#81CBFA	Candidatus Roizmanbacteria
+KX123530.1.1503	range	#81CBFA	Candidatus Roizmanbacteria
+KX123529.1.1503	range	#81CBFA	Candidatus Roizmanbacteria
+LDXP01000044.18703.20249	range	#F4C2A3	Candidatus Rokubacteria
+MHNQ01000001.1959.3483	range	#C6E0B3	Candidatus Ryanbacteria
+CP005957.691027.692517	range	#A8CA24	Candidatus Saccharibacteria
+AUNW02000026.4605.6060	range	#A8CA24	Candidatus Saccharibacteria
+AAXS01000094.4846.6337	range	#A8CA24	Candidatus Saccharibacteria
+MNZN01000008.36435.37947	range	#A8CA24	Candidatus Saccharibacteria
+CP011211.846360.847830	range	#A8CA24	Candidatus Saccharibacteria
+CP006915.447312.448895	range	#A8CA24	Candidatus Saccharibacteria
+AM420132.1.1439	range	#A8CA24	Candidatus Saccharibacteria
+MNZO01000023.8601.9911	range	#4EF286	Candidatus Shapirobacteria
+KX123569.1.1489	range	#4EF286	Candidatus Shapirobacteria
+MGDN01000030.7785.9362	range	#4EF286	Candidatus Shapirobacteria
+AZHW01000045.7.1521	range	#91F184	Candidatus Tectomicrobia
+KX123539.1.1497	range	#E082CC	Candidatus Uhrbacteria
+KX123584.1.1484	range	#E082CC	Candidatus Uhrbacteria
+LCAH01000003.23730.25224	range	#E082CC	Candidatus Uhrbacteria
+KX123559.1.1492	range	#E082CC	Candidatus Uhrbacteria
+KX123556.1.1493	range	#E082CC	Candidatus Uhrbacteria
+KX123561.1.1490	range	#E082CC	Candidatus Uhrbacteria
+MHTG01000018.95.1673	range	#CBF192	Candidatus Vogelbacteria
+MHTH01000005.30122.31463	range	#CBF192	Candidatus Vogelbacteria
+MHTK01000006.314535.315996	range	#CBF192	Candidatus Vogelbacteria
+KX123419.1.1868	range	#6B993C	Candidatus Woesebacteria
+LBWQ01000018.38256.39751	range	#6B993C	Candidatus Woesebacteria
+KX123359.1.3001	range	#6B993C	Candidatus Woesebacteria
+KX123415.1.1882	range	#6B993C	Candidatus Woesebacteria
+KX123350.1.3104	range	#6B993C	Candidatus Woesebacteria
+KX123514.1.1516	range	#6B993C	Candidatus Woesebacteria
+KX123581.1.1484	range	#6B993C	Candidatus Woesebacteria
+MGHT01000023.6185.7618	range	#6B993C	Candidatus Woesebacteria
+KX123515.1.1510	range	#66A9ED	Candidatus Wolfebacteria
+CP011209.974521.976030	range	#66A9ED	Candidatus Wolfebacteria
+KX123483.1.1552	range	#66A9ED	Candidatus Wolfebacteria
+MHCP01000032.8250.9815	range	#8EB6A7	Candidatus Woykebacteria
+MHCQ01000043.212.1718	range	#8EB6A7	Candidatus Woykebacteria
+MHDA01000022.14534.16085	range	#8EB6A7	Candidatus Woykebacteria
+MHDB01000041.19921.21369	range	#8EB6A7	Candidatus Woykebacteria
+KX123588.1.1480	range	#EEF592	Candidatus Yanofskybacteria
+KX123607.1.1467	range	#EEF592	Candidatus Yanofskybacteria
+AB001783.1.1507	range	#5675A5	Chlamydiae
+LN846995.1000209.1001750	range	#5675A5	Chlamydiae
+FR872580.768411.769961	range	#5675A5	Chlamydiae
+FR872582.370012.371557	range	#5675A5	Chlamydiae
+CP001928.1839454.1840994	range	#5675A5	Chlamydiae
+CP001099.112910.114404	range	#E5F0E1	Chlorobi
+CP001108.147535.149029	range	#E5F0E1	Chlorobi
+CP001100.907300.908779	range	#E5F0E1	Chlorobi
+AP012029.195826.197323	range	#95ABB9	Chloroflexi
+AP012337.1275742.1277241	range	#95ABB9	Chloroflexi
+CP000909.5131307.5132780	range	#95ABB9	Chloroflexi
+AF093427.1.1418	range	#95ABB9	Chloroflexi
+CP000804.5183512.5184980	range	#95ABB9	Chloroflexi
+CP000875.1974899.1976373	range	#95ABB9	Chloroflexi
+CP002084.346274.347765	range	#95ABB9	Chloroflexi
+MNYD01000108.2079.3595	range	#95ABB9	Chloroflexi
+ARPL01000017.16314.17806	range	#95ABB9	Chloroflexi
+ADVG01000004.1029211.1030676	range	#95ABB9	Chloroflexi
+LC328545.1.1480	range	#95ABB9	Chloroflexi
+JQ345500.1.1470	range	#95ABB9	Chloroflexi
+CP001823.579562.581058	range	#95ABB9	Chloroflexi
+CP001276.536298.537819	range	#95ABB9	Chloroflexi
+MGMK01000015.42031.43538	range	#95ABB9	Chloroflexi
+MGML01000116.8420.9921	range	#95ABB9	Chloroflexi
+MGMY01000058.4243.5801	range	#95ABB9	Chloroflexi
+DQ811859.1.1478	range	#95ABB9	Chloroflexi
+GQ354896.1.1470	range	#95ABB9	Chloroflexi
+X81319.1.1511	range	#B2BCED	Chrysiogenetes
+DQ991965.1.1530	range	#B2BCED	Chrysiogenetes
+BA000045.1571231.1572715	range	#6C22F2	Cyanobacteria
+AB847982.1.1393	range	#6C22F2	Cyanobacteria
+AESD01000223.139.1640	range	#6C22F2	Cyanobacteria
+CP003945.926683.928159	range	#6C22F2	Cyanobacteria
+EF126149.1.1359	range	#6C22F2	Cyanobacteria
+ALVO01000007.393816.395283	range	#6C22F2	Cyanobacteria
+AB039000.1.1440	range	#6C22F2	Cyanobacteria
+CP003940.1433867.1435344	range	#6C22F2	Cyanobacteria
+CP003597.6301139.6302618	range	#6C22F2	Cyanobacteria
+CP007203.1455203.1456684	range	#6C22F2	Cyanobacteria
+AP018317.730907.732391	range	#6C22F2	Cyanobacteria
+CP003610.1871961.1873436	range	#6C22F2	Cyanobacteria
+AJLN01000020.9.1481	range	#6C22F2	Cyanobacteria
+ANFJ01000002.3066008.3067474	range	#6C22F2	Cyanobacteria
+AJ544077.1.1364	range	#6C22F2	Cyanobacteria
+AP018166.3816451.3817937	range	#6C22F2	Cyanobacteria
+CP011456.993237.994724	range	#6C22F2	Cyanobacteria
+CP003642.279463.280830	range	#6C22F2	Cyanobacteria
+CP003552.5571452.5572818	range	#6C22F2	Cyanobacteria
+CP002059.2217271.2218747	range	#6C22F2	Cyanobacteria
+AP018233.3027109.3028595	range	#6C22F2	Cyanobacteria
+CP003549.8136367.8137732	range	#6C22F2	Cyanobacteria
+ALVW01000015.525265.526734	range	#6C22F2	Cyanobacteria
+CP003632.58128.59497	range	#6C22F2	Cyanobacteria
+ABRS01000062.60746.62213	range	#6C22F2	Cyanobacteria
+CP003591.255680.257158	range	#6C22F2	Cyanobacteria
+MLAW01000094.181.1675	range	#6C22F2	Cyanobacteria
+CP003620.5306153.5307631	range	#6C22F2	Cyanobacteria
+JN831264.1.1482	range	#6C22F2	Cyanobacteria
+EF654087.1.1481	range	#6C22F2	Cyanobacteria
+AAVU01000018.81300.82792	range	#6C22F2	Cyanobacteria
+AEPQ01000257.114.1582	range	#6C22F2	Cyanobacteria
+CP003614.566533.568020	range	#6C22F2	Cyanobacteria
+CP003653.2565005.2566485	range	#6C22F2	Cyanobacteria
+CP003590.440038.441407	range	#6C22F2	Cyanobacteria
+KT731151.1.1416	range	#6C22F2	Cyanobacteria
+ALVZ01000003.198.1565	range	#6C22F2	Cyanobacteria
+ALVP01000011.1263.2730	range	#6C22F2	Cyanobacteria
+AM709625.1.1448	range	#6C22F2	Cyanobacteria
+CP003592.1762171.1763645	range	#6C22F2	Cyanobacteria
+BA000039.2335243.2336733	range	#6C22F2	Cyanobacteria
+AM709631.1.1448	range	#6C22F2	Cyanobacteria
+CP000828.5636175.5637675	range	#6C22F2	Cyanobacteria
+CP003600.1377567.1378934	range	#6C22F2	Cyanobacteria
+AP012276.3322770.3324258	range	#6C22F2	Cyanobacteria
+AGRF01000040.13758.15228	range	#6C22F2	Cyanobacteria
+AF001477.1.1438	range	#6C22F2	Cyanobacteria
+CP018345.1025825.1027307	range	#6C22F2	Cyanobacteria
+CP003944.886648.888016	range	#6C22F2	Cyanobacteria
+CP000097.373319.374797	range	#6C22F2	Cyanobacteria
+CP002347.1401787.1403324	range	#C9CFE6	Deferribacteres
+AP011529.2192978.2194541	range	#C9CFE6	Deferribacteres
+CP002858.2249990.2251530	range	#C9CFE6	Deferribacteres
+CP001968.2671440.2672979	range	#C9CFE6	Deferribacteres
+KC631812.1.1543	range	#C9CFE6	Deferribacteres
+JN107635.1.1474	range	#C9CFE6	Deferribacteres
+AY387670.1.1471	range	#C9CFE6	Deferribacteres
+CP000359.157596.159088	range	#A6D0CF	Deinococcus-Thermus
+AB079382.1.1493	range	#A6D0CF	Deinococcus-Thermus
+CP001743.590782.592258	range	#A6D0CF	Deinococcus-Thermus
+CP002361.279006.280524	range	#A6D0CF	Deinococcus-Thermus
+CP003249.1918897.1920290	range	#A6D0CF	Deinococcus-Thermus
+CP002049.86621.88117	range	#A6D0CF	Deinococcus-Thermus
+CP001146.1077333.1078873	range	#57D3D5	Dictyoglomi
+CP001251.1244224.1245764	range	#57D3D5	Dictyoglomi
+CP001055.1535259.1536691	range	#B4DF70	Elusimicrobia
+LNVX01000212.1804.3325	range	#B4DF70	Elusimicrobia
+MNXB01000105.15058.16643	range	#B4DF70	Elusimicrobia
+MNUR01000070.3378.4895	range	#B4DF70	Elusimicrobia
+MGTY01000053.17208.18715	range	#B4DF70	Elusimicrobia
+MGUN01000010.1468.3022	range	#B4DF70	Elusimicrobia
+MGUP01000120.23046.24566	range	#B4DF70	Elusimicrobia
+MGUR01000062.16484.18033	range	#B4DF70	Elusimicrobia
+MGVR01000037.12229.13753	range	#B4DF70	Elusimicrobia
+JF304641.1.1488	range	#D6C8F1	Fibrobacteres
+CP001792.1787695.1789183	range	#D6C8F1	Fibrobacteres
+AB222249.1.1520	range	#BEF169	Firmicutes
+CP002017.1368697.1370224	range	#BEF169	Firmicutes
+AJ238041.1.1412	range	#BEF169	Firmicutes
+AP012050.93737.95308	range	#BEF169	Firmicutes
+CP000922.245925.247448	range	#BEF169	Firmicutes
+MF449188.1.1201	range	#BEF169	Firmicutes
+X76441.1.1502	range	#BEF169	Firmicutes
+CP013000.1363337.1364892	range	#BEF169	Firmicutes
+AY753654.1.1485	range	#BEF169	Firmicutes
+AJ564616.1.1525	range	#BEF169	Firmicutes
+AJ586337.1.1440	range	#BEF169	Firmicutes
+AY550102.1.1518	range	#BEF169	Firmicutes
+AY762980.1.1534	range	#BEF169	Firmicutes
+AB264529.1.1492	range	#BEF169	Firmicutes
+HE717023.170258.171826	range	#BEF169	Firmicutes
+FJ182050.1.1414	range	#BEF169	Firmicutes
+CP000817.10101.11641	range	#BEF169	Firmicutes
+AB769482.1.1491	range	#BEF169	Firmicutes
+BA000028.2353644.2355210	range	#BEF169	Firmicutes
+AM114102.1.1441	range	#BEF169	Firmicutes
+EU583728.1.1469	range	#BEF169	Firmicutes
+CP001791.1364920.1366474	range	#BEF169	Firmicutes
+AM492160.1.1502	range	#BEF169	Firmicutes
+AJ717299.1.1506	range	#BEF169	Firmicutes
+JQ775342.1.1554	range	#BEF169	Firmicutes
+AZNU01000004.217712.219220	range	#BEF169	Firmicutes
+LT993737.159572.161107	range	#BEF169	Firmicutes
+AL596170.116698.118252	range	#BEF169	Firmicutes
+AJ715385.1.1415	range	#BEF169	Firmicutes
+AP008955.21496.23006	range	#BEF169	Firmicutes
+AZXQ01000006.90100.91714	range	#BEF169	Firmicutes
+CP016809.6520178.6521745	range	#BEF169	Firmicutes
+EU362183.1.1517	range	#BEF169	Firmicutes
+CP003255.1602579.1604027	range	#BEF169	Firmicutes
+AM286423.1.1544	range	#BEF169	Firmicutes
+CAEU01000072.81.1610	range	#BEF169	Firmicutes
+CP025135.29151.30694	range	#BEF169	Firmicutes
+AJ634662.1.1521	range	#BEF169	Firmicutes
+AB231786.1.1486	range	#BEF169	Firmicutes
+AY028926.1.1507	range	#BEF169	Firmicutes
+Y15711.1.1547	range	#BEF169	Firmicutes
+JX424771.1.1523	range	#BEF169	Firmicutes
+FJ182049.1.1467	range	#BEF169	Firmicutes
+FN665656.1.1607	range	#BEF169	Firmicutes
+AB049939.1.1459	range	#BEF169	Firmicutes
+EU430570.1.1518	range	#BEF169	Firmicutes
+AY594264.1.1517	range	#BEF169	Firmicutes
+EU282460.1.1463	range	#BEF169	Firmicutes
+L14326.1.1537	range	#BEF169	Firmicutes
+U64459.1.1503	range	#BEF169	Firmicutes
+AUAT01000051.79.1494	range	#BEF169	Firmicutes
+AGZE01000005.9117.10656	range	#BEF169	Firmicutes
+ARFP01000003.3343.4870	range	#BEF169	Firmicutes
+AGXA01000018.94315.95851	range	#BEF169	Firmicutes
+Y16546.1.1511	range	#BEF169	Firmicutes
+HE999757.2530807.2532349	range	#BEF169	Firmicutes
+AGEF01000001.130585.132119	range	#BEF169	Firmicutes
+AB430339.1.1446	range	#BEF169	Firmicutes
+FM177901.1.1470	range	#BEF169	Firmicutes
+AMYT01000015.54.1603	range	#BEF169	Firmicutes
+CP022488.214128.215692	range	#BEF169	Firmicutes
+AP012200.292410.293811	range	#BEF169	Firmicutes
+AEOP01000025.341.1870	range	#BEF169	Firmicutes
+CP000033.1632689.1634260	range	#BEF169	Firmicutes
+FN822744.1687883.1689436	range	#BEF169	Firmicutes
+CP000411.1277133.1278699	range	#BEF169	Firmicutes
+CP014936.1121099.1122686	range	#BEF169	Firmicutes
+CP007588.258002.259581	range	#BEF169	Firmicutes
+AP017373.1350283.1351819	range	#BEF169	Firmicutes
+AY188352.1.1546	range	#BEF169	Firmicutes
+AB450762.1.1471	range	#BEF169	Firmicutes
+CP000853.49919.51423	range	#BEF169	Firmicutes
+AQOB01000017.75653.77170	range	#BEF169	Firmicutes
+AP012202.43169.44681	range	#BEF169	Firmicutes
+AE001437.163474.164983	range	#BEF169	Firmicutes
+FJ481102.1.1423	range	#BEF169	Firmicutes
+CAVN010000111.123517.125031	range	#BEF169	Firmicutes
+CP003273.1268190.1269602	range	#BEF169	Firmicutes
+CP003869.2062448.2064005	range	#BEF169	Firmicutes
+AP008230.237001.238657	range	#BEF169	Firmicutes
+CP003108.3632996.3634442	range	#BEF169	Firmicutes
+AY548776.1.1567	range	#BEF169	Firmicutes
+AP009389.265400.266925	range	#BEF169	Firmicutes
+CP002987.2819873.2821385	range	#BEF169	Firmicutes
+ABIL02000005.2980.4486	range	#BEF169	Firmicutes
+CP002273.179417.180928	range	#BEF169	Firmicutes
+AF385510.1.1522	range	#BEF169	Firmicutes
+AB036759.1.1480	range	#BEF169	Firmicutes
+AJ251215.1.1500	range	#BEF169	Firmicutes
+Z36296.1.1498	range	#BEF169	Firmicutes
+CP000930.2797495.2799004	range	#BEF169	Firmicutes
+FP929061.44196.45716	range	#BEF169	Firmicutes
+CP002582.422560.424073	range	#BEF169	Firmicutes
+ACZL01000055.405.1921	range	#BEF169	Firmicutes
+CP000885.15754.17276	range	#BEF169	Firmicutes
+ACCL02000018.824.2342	range	#BEF169	Firmicutes
+JN662465.1.1492	range	#BEF169	Firmicutes
+AF445285.1.1525	range	#BEF169	Firmicutes
+LF651704.10.1521	range	#BEF169	Firmicutes
+AEDB02000042.329.1819	range	#BEF169	Firmicutes
+AB186359.1.1560	range	#BEF169	Firmicutes
+ABGD02000031.941.2453	range	#BEF169	Firmicutes
+AP012044.1260691.1262224	range	#BEF169	Firmicutes
+CP000860.142718.144409	range	#BEF169	Firmicutes
+AY538171.1.1559	range	#BEF169	Firmicutes
+Y18214.1.1507	range	#BEF169	Firmicutes
+LN614756.147004.148510	range	#BEF169	Firmicutes
+CP002390.924199.925721	range	#BEF169	Firmicutes
+ABEZ02000021.84162.85652	range	#BEF169	Firmicutes
+AY326462.1.1473	range	#BEF169	Firmicutes
+AP006840.21144.22715	range	#BEF169	Firmicutes
+EF422412.1.1441	range	#BEF169	Firmicutes
+CP000448.417882.419570	range	#BEF169	Firmicutes
+CP002175.10370.11908	range	#BEF169	Firmicutes
+CP001098.19830.21373	range	#BEF169	Firmicutes
+CP002105.10646.12170	range	#BEF169	Firmicutes
+CP003359.153884.155302	range	#BEF169	Firmicutes
+AZYG01000049.26827.28341	range	#BEF169	Firmicutes
+AQZS01000007.199066.200586	range	#BEF169	Firmicutes
+CP001034.10608.12073	range	#BEF169	Firmicutes
+CP001785.1682354.1683921	range	#BEF169	Firmicutes
+AE008691.1488415.1490034	range	#BEF169	Firmicutes
+ATXZ01000014.201334.202801	range	#BEF169	Firmicutes
+CP000141.2112241.2113740	range	#BEF169	Firmicutes
+DQ208689.1.1436	range	#BEF169	Firmicutes
+AB540984.1.1529	range	#BEF169	Firmicutes
+LT838272.3184415.3185963	range	#BEF169	Firmicutes
+CP002171.448908.450411	range	#BEF169	Firmicutes
+AY331143.1.1531	range	#BEF169	Firmicutes
+ACCK01000460.1.1313	range	#BEF169	Firmicutes
+AGEJ01000008.84769.86302	range	#BEF169	Firmicutes
+ARAE01000002.30816.32317	range	#BEF169	Firmicutes
+ADFR01000011.3460.4852	range	#BEF169	Firmicutes
+JX101690.1.1488	range	#BEF169	Firmicutes
+CAEN01000062.3382.4895	range	#BEF169	Firmicutes
+AB595128.1.1488	range	#BEF169	Firmicutes
+AP012027.1121071.1122611	range	#BEF169	Firmicutes
+ATUT01000005.67070.68591	range	#BEF169	Firmicutes
+FP929041.134513.136043	range	#BEF169	Firmicutes
+ABYT01000002.2079.3606	range	#BEF169	Firmicutes
+CALK01000057.3384.4901	range	#BEF169	Firmicutes
+CP015404.1085305.1086853	range	#BEF169	Firmicutes
+CP001859.57719.59263	range	#BEF169	Firmicutes
+AB490811.1.1610	range	#BEF169	Firmicutes
+AQZZ01000002.9217.10746	range	#BEF169	Firmicutes
+ABWK02000005.70.1618	range	#BEF169	Firmicutes
+HE582764.1.1655	range	#BEF169	Firmicutes
+AFGF01000106.1.1560	range	#BEF169	Firmicutes
+AJ010961.1.1506	range	#BEF169	Firmicutes
+AF071415.1.1530	range	#BEF169	Firmicutes
+CP008852.8.1548	range	#BEF169	Firmicutes
+AF548373.1.1537	range	#BEF169	Firmicutes
+AF338413.1.1408	range	#BEF169	Firmicutes
+AB626633.1.1528	range	#BEF169	Firmicutes
+CP003326.11124.12636	range	#BEF169	Firmicutes
+CP001708.81697.83211	range	#BEF169	Firmicutes
+AB109771.667.2190	range	#BEF169	Firmicutes
+AJ579914.1.1512	range	#BEF169	Firmicutes
+EF026082.1.1434	range	#BEF169	Firmicutes
+AY673993.1.1473	range	#BEF169	Firmicutes
+AJ438155.1.1470	range	#5A59E8	Fusobacteria
+JTLI01000095.1.1501	range	#5A59E8	Fusobacteria
+LN831027.2036522.2038007	range	#5A59E8	Fusobacteria
+AJ307981.1.1516	range	#5A59E8	Fusobacteria
+AB558169.1.1473	range	#5A59E8	Fusobacteria
+CP001739.3106539.3108040	range	#5A59E8	Fusobacteria
+JQ087393.1.1506	range	#5A59E8	Fusobacteria
+AP009153.1882855.1884381	range	#D49C99	Gemmatimonadetes
+KF481682.1.1525	range	#D49C99	Gemmatimonadetes
+CP007128.4320338.4321850	range	#D49C99	Gemmatimonadetes
+AXVX01000020.1198.2740	range	#D49C99	Gemmatimonadetes
+CP003418.794761.796287	range	#E9C8D9	Ignavibacteriae
+JQ292917.1.1539	range	#E9C8D9	Ignavibacteriae
+MHAV01000004.57106.58643	range	#E9C8D9	Ignavibacteriae
+ABCK01000003.100786.102281	range	#F2EF49	Lentisphaerae
+AY049713.1.1456	range	#F2EF49	Lentisphaerae
+MHBF01000173.12388.13718	range	#F2EF49	Lentisphaerae
+MHBI01000069.82300.83843	range	#F2EF49	Lentisphaerae
+JMFO01000010.34772.36280	range	#C0C866	Nitrospirae
+CP007243.1301174.1302736	range	#C0C866	Nitrospirae
+FP929003.1384637.1386163	range	#C0C866	Nitrospirae
+EU266889.1.1489	range	#C0C866	Nitrospirae
+CP001147.916471.917963	range	#C0C866	Nitrospirae
+MNYV01000050.14571.15926	range	#C0C866	Nitrospirae
+MHEE01000002.15960.17497	range	#C0C866	Nitrospirae
+AF293010.1.1498	range	#C0C866	Nitrospirae
+LT934425.1069811.1071397	range	#E03269	Planctomycetes
+AP012338.3063933.3065441	range	#E03269	Planctomycetes
+LJUC01000242.1.1411	range	#E03269	Planctomycetes
+AM162406.1.1426	range	#E03269	Planctomycetes
+CP002353.5377430.5378940	range	#E03269	Planctomycetes
+CP003364.7835180.7836580	range	#E03269	Planctomycetes
+AANZ01000021.102759.104249	range	#E03269	Planctomycetes
+L06174.1.1489	range	#E03269	Planctomycetes
+BX294149.206764.208278	range	#E03269	Planctomycetes
+CP001744.638957.640480	range	#E03269	Planctomycetes
+AM162407.1.1446	range	#E03269	Planctomycetes
+LT841305.1601053.1602576	range	#7C3DEA	Proteobacteria
+KC493561.1.1452	range	#7C3DEA	Proteobacteria
+CP002396.1074072.1075520	range	#7C3DEA	Proteobacteria
+CP002102.2980512.2981960	range	#7C3DEA	Proteobacteria
+JX968034.1.1463	range	#7C3DEA	Proteobacteria
+AEWF01000006.3949.5424	range	#7C3DEA	Proteobacteria
+BAUP01000039.7497.8974	range	#7C3DEA	Proteobacteria
+FR733717.1.1455	range	#7C3DEA	Proteobacteria
+ARFW01000012.454.1919	range	#7C3DEA	Proteobacteria
+ATXK01000033.74.1540	range	#7C3DEA	Proteobacteria
+U53824.1.1405	range	#7C3DEA	Proteobacteria
+DQ883810.1.1360	range	#7C3DEA	Proteobacteria
+AATP01000002.612461.613920	range	#7C3DEA	Proteobacteria
+AY649762.1.1474	range	#7C3DEA	Proteobacteria
+FN645454.1270062.1271537	range	#7C3DEA	Proteobacteria
+CP001016.680554.682033	range	#7C3DEA	Proteobacteria
+AJ278726.1.1415	range	#7C3DEA	Proteobacteria
+CP001280.1934569.1936043	range	#7C3DEA	Proteobacteria
+ARWA01000001.752244.753710	range	#7C3DEA	Proteobacteria
+AB012760.1.1394	range	#7C3DEA	Proteobacteria
+DQ440827.1.1452	range	#7C3DEA	Proteobacteria
+CP022205.1086483.1087946	range	#7C3DEA	Proteobacteria
+KR029273.1.1448	range	#7C3DEA	Proteobacteria
+CP012398.2122415.2123909	range	#7C3DEA	Proteobacteria
+AUCR01000008.7246.8707	range	#7C3DEA	Proteobacteria
+JX392051.1.1479	range	#7C3DEA	Proteobacteria
+CP021330.626566.628049	range	#7C3DEA	Proteobacteria
+JX131369.1.1450	range	#7C3DEA	Proteobacteria
+AY039817.1.1413	range	#7C3DEA	Proteobacteria
+FP103042.1339137.1340613	range	#7C3DEA	Proteobacteria
+KM200559.1.1447	range	#7C3DEA	Proteobacteria
+HE956757.29898.31371	range	#7C3DEA	Proteobacteria
+ARWB01000001.3865046.3866508	range	#7C3DEA	Proteobacteria
+FR798964.1.1438	range	#7C3DEA	Proteobacteria
+U87759.1.1401	range	#7C3DEA	Proteobacteria
+AYOD01000070.271.1739	range	#7C3DEA	Proteobacteria
+JAGL01000083.976.2440	range	#7C3DEA	Proteobacteria
+Y15403.1.1423	range	#7C3DEA	Proteobacteria
+AJ786600.1.1449	range	#7C3DEA	Proteobacteria
+JN867363.1.1399	range	#7C3DEA	Proteobacteria
+AF534573.1.1456	range	#7C3DEA	Proteobacteria
+AJ968697.1.1428	range	#7C3DEA	Proteobacteria
+AB159680.1.1435	range	#7C3DEA	Proteobacteria
+AM177497.1.1485	range	#7C3DEA	Proteobacteria
+CP007239.4329.5801	range	#7C3DEA	Proteobacteria
+CP006604.993592.995079	range	#7C3DEA	Proteobacteria
+JN558651.1.1475	range	#7C3DEA	Proteobacteria
+U50168.1.1478	range	#7C3DEA	Proteobacteria
+CP002740.2520706.2522177	range	#7C3DEA	Proteobacteria
+ATVH01000016.262574.264046	range	#7C3DEA	Proteobacteria
+X87278.1.1477	range	#7C3DEA	Proteobacteria
+AUBC01000058.44.1506	range	#7C3DEA	Proteobacteria
+CP013068.2199151.2200635	range	#7C3DEA	Proteobacteria
+AF513441.1.1384	range	#7C3DEA	Proteobacteria
+AB681109.1.1408	range	#7C3DEA	Proteobacteria
+LT629784.4128770.4130260	range	#7C3DEA	Proteobacteria
+AY056830.1.1457	range	#7C3DEA	Proteobacteria
+AP009384.680516.681983	range	#7C3DEA	Proteobacteria
+AQXT01000002.1569233.1570666	range	#7C3DEA	Proteobacteria
+CP001678.2336684.2338119	range	#7C3DEA	Proteobacteria
+CP000158.2818559.2819913	range	#7C3DEA	Proteobacteria
+AY682384.1.1448	range	#7C3DEA	Proteobacteria
+CP000471.275258.276753	range	#7C3DEA	Proteobacteria
+CP000449.1183394.1184853	range	#7C3DEA	Proteobacteria
+ATUP01000002.411.1857	range	#7C3DEA	Proteobacteria
+AJ578476.1.1421	range	#7C3DEA	Proteobacteria
+AUAC01000004.132980.134438	range	#7C3DEA	Proteobacteria
+EF495229.1.1415	range	#7C3DEA	Proteobacteria
+AF180468.1.1383	range	#7C3DEA	Proteobacteria
+HM050420.1.1431	range	#7C3DEA	Proteobacteria
+AUCM01000052.346.1790	range	#7C3DEA	Proteobacteria
+DQ342315.1.1389	range	#7C3DEA	Proteobacteria
+AF139992.1.1427	range	#7C3DEA	Proteobacteria
+DQ120728.1.1424	range	#7C3DEA	Proteobacteria
+ATVN01000030.4530.5989	range	#7C3DEA	Proteobacteria
+FJ232451.1.1429	range	#7C3DEA	Proteobacteria
+HE590855.1.1412	range	#7C3DEA	Proteobacteria
+CP004393.926009.927479	range	#7C3DEA	Proteobacteria
+KY770248.1.1366	range	#7C3DEA	Proteobacteria
+CP000830.617247.618708	range	#7C3DEA	Proteobacteria
+CP000264.4083217.4084677	range	#7C3DEA	Proteobacteria
+CP012908.234357.235823	range	#7C3DEA	Proteobacteria
+AY005463.1.1431	range	#7C3DEA	Proteobacteria
+AONI01000015.1107796.1109261	range	#7C3DEA	Proteobacteria
+JQ327964.1.1453	range	#7C3DEA	Proteobacteria
+KF924609.1.1411	range	#7C3DEA	Proteobacteria
+AJ748748.1.1455	range	#7C3DEA	Proteobacteria
+AAOT01000021.1.1840	range	#7C3DEA	Proteobacteria
+JQEY01000008.80289.81732	range	#7C3DEA	Proteobacteria
+CYSG01000002.363197.364673	range	#7C3DEA	Proteobacteria
+AAMV01000002.66945.68394	range	#7C3DEA	Proteobacteria
+AJ844281.1.1449	range	#7C3DEA	Proteobacteria
+DQ915627.1.1305	range	#7C3DEA	Proteobacteria
+AY527274.1.1364	range	#7C3DEA	Proteobacteria
+AUIJ01000005.642.2086	range	#7C3DEA	Proteobacteria
+CP025808.489727.491191	range	#7C3DEA	Proteobacteria
+DQ640643.1.1428	range	#7C3DEA	Proteobacteria
+AP012035.2291853.2293343	range	#7C3DEA	Proteobacteria
+CP031788.2749425.2750934	range	#7C3DEA	Proteobacteria
+AB035416.1.1411	range	#7C3DEA	Proteobacteria
+ATSX01000009.227.1719	range	#7C3DEA	Proteobacteria
+AM889285.962737.964221	range	#7C3DEA	Proteobacteria
+M11223.1.1489	range	#7C3DEA	Proteobacteria
+AY788950.1.1491	range	#7C3DEA	Proteobacteria
+AP012159.1886073.1887565	range	#7C3DEA	Proteobacteria
+AB056318.1.1416	range	#7C3DEA	Proteobacteria
+AF538712.1.1482	range	#7C3DEA	Proteobacteria
+AB110421.1.1436	range	#7C3DEA	Proteobacteria
+KC109787.1.1413	range	#7C3DEA	Proteobacteria
+Z29583.1.1418	range	#7C3DEA	Proteobacteria
+AM749667.1.1450	range	#7C3DEA	Proteobacteria
+CP006745.116943.118420	range	#7C3DEA	Proteobacteria
+LC133706.1.1446	range	#7C3DEA	Proteobacteria
+LN997848.4635153.4636624	range	#7C3DEA	Proteobacteria
+EF612765.1.1442	range	#7C3DEA	Proteobacteria
+AB671761.1.1477	range	#7C3DEA	Proteobacteria
+AB006768.1.1429	range	#7C3DEA	Proteobacteria
+EU008565.1.1332	range	#7C3DEA	Proteobacteria
+CP000030.247477.248979	range	#7C3DEA	Proteobacteria
+AXCJ01000001.179905.181390	range	#7C3DEA	Proteobacteria
+CP000236.942218.943726	range	#7C3DEA	Proteobacteria
+CP000237.36268.37765	range	#7C3DEA	Proteobacteria
+CP001391.1289969.1291473	range	#7C3DEA	Proteobacteria
+CP002130.197315.198823	range	#7C3DEA	Proteobacteria
+AP011533.889296.890803	range	#7C3DEA	Proteobacteria
+AB289439.1.1426	range	#7C3DEA	Proteobacteria
+CP015963.1137018.1138485	range	#7C3DEA	Proteobacteria
+CP000157.63530.65023	range	#7C3DEA	Proteobacteria
+CP021378.3332891.3334381	range	#7C3DEA	Proteobacteria
+AEUE01000008.155488.156954	range	#7C3DEA	Proteobacteria
+AB024289.1.1476	range	#7C3DEA	Proteobacteria
+AP017898.3524508.3525999	range	#7C3DEA	Proteobacteria
+ATVO01000004.91274.92741	range	#7C3DEA	Proteobacteria
+CP001751.2138901.2140385	range	#7C3DEA	Proteobacteria
+JQ516457.1.1387	range	#7C3DEA	Proteobacteria
+CP014028.1383094.1384627	range	#7C3DEA	Proteobacteria
+CP003555.2649844.2651383	range	#7C3DEA	Proteobacteria
+LS483426.543619.545143	range	#7C3DEA	Proteobacteria
+JX412111.1.1559	range	#7C3DEA	Proteobacteria
+CP013119.2066482.2068029	range	#7C3DEA	Proteobacteria
+AJ277742.1.1473	range	#7C3DEA	Proteobacteria
+AB089482.1.1449	range	#7C3DEA	Proteobacteria
+AREM01000088.49.1565	range	#7C3DEA	Proteobacteria
+CP002663.602730.604175	range	#7C3DEA	Proteobacteria
+CP003059.269170.270701	range	#7C3DEA	Proteobacteria
+CP012982.1266435.1267970	range	#7C3DEA	Proteobacteria
+DQ279347.1.1491	range	#7C3DEA	Proteobacteria
+DQ256728.1.1494	range	#7C3DEA	Proteobacteria
+AB104447.1.1529	range	#7C3DEA	Proteobacteria
+AEQP01000026.54.1572	range	#7C3DEA	Proteobacteria
+MH463959.1.1495	range	#7C3DEA	Proteobacteria
+AP018150.404602.406127	range	#7C3DEA	Proteobacteria
+CP013481.307737.309273	range	#7C3DEA	Proteobacteria
+CP007501.32246.33660	range	#7C3DEA	Proteobacteria
+AL646053.1205189.1206722	range	#7C3DEA	Proteobacteria
+CP000512.1577962.1579483	range	#7C3DEA	Proteobacteria
+CP002449.3142430.3143946	range	#7C3DEA	Proteobacteria
+AB681806.1.1456	range	#7C3DEA	Proteobacteria
+EU346912.1.1501	range	#7C3DEA	Proteobacteria
+AB008801.1.1466	range	#7C3DEA	Proteobacteria
+CP006704.552873.554469	range	#7C3DEA	Proteobacteria
+AB109889.1.1484	range	#7C3DEA	Proteobacteria
+CP000884.6692888.6694413	range	#7C3DEA	Proteobacteria
+AY780907.1.1491	range	#7C3DEA	Proteobacteria
+AZSO01000079.3872.5417	range	#7C3DEA	Proteobacteria
+AEGR01000103.3796.5314	range	#7C3DEA	Proteobacteria
+AJ537466.1.1525	range	#7C3DEA	Proteobacteria
+CP000529.425434.426956	range	#7C3DEA	Proteobacteria
+EF469609.1.1491	range	#7C3DEA	Proteobacteria
+CP000245.566088.567610	range	#7C3DEA	Proteobacteria
+CP000267.4118284.4119814	range	#7C3DEA	Proteobacteria
+CP000542.1980681.1982207	range	#7C3DEA	Proteobacteria
+AF285414.1.1484	range	#7C3DEA	Proteobacteria
+CP002745.4446108.4447638	range	#7C3DEA	Proteobacteria
+JN175334.1.1533	range	#7C3DEA	Proteobacteria
+CU207211.202826.204361	range	#7C3DEA	Proteobacteria
+CP000269.259683.261216	range	#7C3DEA	Proteobacteria
+BX571657.136191.137670	range	#7C3DEA	Proteobacteria
+AB370250.1.1494	range	#7C3DEA	Proteobacteria
+D30774.1.1407	range	#7C3DEA	Proteobacteria
+AM397080.1.1508	range	#7C3DEA	Proteobacteria
+Y17602.1.1490	range	#7C3DEA	Proteobacteria
+CP001154.2650124.2651647	range	#7C3DEA	Proteobacteria
+AQXU01000006.219.1736	range	#7C3DEA	Proteobacteria
+CP028519.661761.663304	range	#7C3DEA	Proteobacteria
+AM396358.1.1420	range	#7C3DEA	Proteobacteria
+AB087264.1.1492	range	#7C3DEA	Proteobacteria
+AB087261.1.1479	range	#7C3DEA	Proteobacteria
+CP024028.473021.474566	range	#7C3DEA	Proteobacteria
+GU395612.1.1544	range	#7C3DEA	Proteobacteria
+CP027405.1351207.1352738	range	#7C3DEA	Proteobacteria
+CP019448.1480151.1481703	range	#7C3DEA	Proteobacteria
+EF212897.1.1484	range	#7C3DEA	Proteobacteria
+AY252113.1.1555	range	#7C3DEA	Proteobacteria
+JQKP01000002.399243.400760	range	#7C3DEA	Proteobacteria
+CP002159.1253206.1254729	range	#7C3DEA	Proteobacteria
+CP001965.1926830.1928357	range	#7C3DEA	Proteobacteria
+CP000284.2233413.2234878	range	#7C3DEA	Proteobacteria
+CP012020.2910718.2912261	range	#7C3DEA	Proteobacteria
+CP002056.127113.128638	range	#7C3DEA	Proteobacteria
+CP001674.666264.667796	range	#7C3DEA	Proteobacteria
+AL954747.69146.70677	range	#7C3DEA	Proteobacteria
+CP000103.562629.564157	range	#7C3DEA	Proteobacteria
+AFHG01000027.189.1709	range	#7C3DEA	Proteobacteria
+AP013066.1745576.1747120	range	#7C3DEA	Proteobacteria
+CP000116.1863920.1865429	range	#7C3DEA	Proteobacteria
+EF158390.1.1454	range	#7C3DEA	Proteobacteria
+Y17060.1.1530	range	#7C3DEA	Proteobacteria
+CP003153.1901384.1902805	range	#7C3DEA	Proteobacteria
+AF011346.1.1485	range	#7C3DEA	Proteobacteria
+Y17601.1.1496	range	#7C3DEA	Proteobacteria
+AP012304.1820861.1822382	range	#7C3DEA	Proteobacteria
+LARU01000002.564379.565925	range	#7C3DEA	Proteobacteria
+CP001281.454429.455955	range	#7C3DEA	Proteobacteria
+DQ665916.1.1387	range	#7C3DEA	Proteobacteria
+CP002085.333737.335281	range	#7C3DEA	Proteobacteria
+ATBP01000008.203.1756	range	#7C3DEA	Proteobacteria
+CP001322.4580234.4581782	range	#7C3DEA	Proteobacteria
+AJ237601.1.1527	range	#7C3DEA	Proteobacteria
+AUCU01000039.43293.44828	range	#7C3DEA	Proteobacteria
+AF418180.1.1523	range	#7C3DEA	Proteobacteria
+FO203503.16902.18449	range	#7C3DEA	Proteobacteria
+U45990.1.1505	range	#7C3DEA	Proteobacteria
+CP001087.3947416.3948962	range	#7C3DEA	Proteobacteria
+AF243334.1.1524	range	#7C3DEA	Proteobacteria
+APJX01000002.234709.236256	range	#7C3DEA	Proteobacteria
+CP002364.2987039.2988584	range	#7C3DEA	Proteobacteria
+CP001940.616282.617831	range	#7C3DEA	Proteobacteria
+CP003985.3691513.3692952	range	#7C3DEA	Proteobacteria
+AF099062.1.1492	range	#7C3DEA	Proteobacteria
+CP000859.680920.682475	range	#7C3DEA	Proteobacteria
+CP001734.1976777.1978319	range	#7C3DEA	Proteobacteria
+ACJN02000001.56313.57862	range	#7C3DEA	Proteobacteria
+X99234.1.1503	range	#7C3DEA	Proteobacteria
+DQ139408.1.1424	range	#7C3DEA	Proteobacteria
+CP001629.3896599.3898140	range	#7C3DEA	Proteobacteria
+GU196832.1.1508	range	#7C3DEA	Proteobacteria
+AJ867049.1.1500	range	#7C3DEA	Proteobacteria
+DQ841177.1.1532	range	#7C3DEA	Proteobacteria
+AM180252.1403899.1405451	range	#7C3DEA	Proteobacteria
+CP007051.1233750.1235317	range	#7C3DEA	Proteobacteria
+CP002606.256607.258252	range	#7C3DEA	Proteobacteria
+AAEW02000008.189409.190966	range	#7C3DEA	Proteobacteria
+X79412.1.1473	range	#7C3DEA	Proteobacteria
+DQ309326.1.1504	range	#7C3DEA	Proteobacteria
+ARWE01000001.2389747.2391258	range	#7C3DEA	Proteobacteria
+CP001089.768668.770218	range	#7C3DEA	Proteobacteria
+CP000142.2750584.2752141	range	#7C3DEA	Proteobacteria
+AF382399.1.1534	range	#7C3DEA	Proteobacteria
+GU207882.1.1548	range	#7C3DEA	Proteobacteria
+AM296500.1.1407	range	#7C3DEA	Proteobacteria
+GP443271.1.1495	range	#7C3DEA	Proteobacteria
+GX154060.1.1515	range	#7C3DEA	Proteobacteria
+HK241550.3.1522	range	#7C3DEA	Proteobacteria
+HK693344.10.1548	range	#7C3DEA	Proteobacteria
+CP001804.2898792.2900335	range	#7C3DEA	Proteobacteria
+CP000113.8965179.8966718	range	#7C3DEA	Proteobacteria
+CP011509.1059494.1061031	range	#7C3DEA	Proteobacteria
+ABCS01000069.4919.6444	range	#7C3DEA	Proteobacteria
+AB084253.1.1480	range	#7C3DEA	Proteobacteria
+AB097590.1.1480	range	#7C3DEA	Proteobacteria
+KJ955688.1.1526	range	#7C3DEA	Proteobacteria
+CP002629.3127195.3128743	range	#7C3DEA	Proteobacteria
+CP003360.3288170.3289606	range	#7C3DEA	Proteobacteria
+CP000252.738017.739575	range	#7C3DEA	Proteobacteria
+CP000478.3187202.3188756	range	#7C3DEA	Proteobacteria
+U25627.1.1559	range	#7C3DEA	Proteobacteria
+AB212873.1.1482	range	#7C3DEA	Proteobacteria
+FM242231.1.1521	range	#7C3DEA	Proteobacteria
+FM242272.1.1514	range	#7C3DEA	Proteobacteria
+CP001999.237935.239439	range	#7C3DEA	Proteobacteria
+AL111168.394130.395642	range	#7C3DEA	Proteobacteria
+CP003479.346052.347559	range	#7C3DEA	Proteobacteria
+AB238922.1.1488	range	#7C3DEA	Proteobacteria
+CP003333.1721161.1722556	range	#7C3DEA	Proteobacteria
+CP003920.2310119.2311632	range	#7C3DEA	Proteobacteria
+L40808.1.1446	range	#7C3DEA	Proteobacteria
+AKKQ01000024.146.1526	range	#7C3DEA	Proteobacteria
+ABCJ01000005.352.1864	range	#7C3DEA	Proteobacteria
+AB167820.1.1431	range	#7C3DEA	Proteobacteria
+CP001279.139776.141273	range	#7C3DEA	Proteobacteria
+M90801.1.1490	range	#7C3DEA	Proteobacteria
+CP003171.174927.176476	range	#7C3DEA	Proteobacteria
+CP001616.26293.27826	range	#7C3DEA	Proteobacteria
+U96412.1.1468	range	#7C3DEA	Proteobacteria
+AB601002.1.1478	range	#7C3DEA	Proteobacteria
+ARKF01000015.10211.11729	range	#7C3DEA	Proteobacteria
+AY207502.1.1456	range	#7C3DEA	Proteobacteria
+AB076559.1.1472	range	#7C3DEA	Proteobacteria
+AKKU01000023.38873.40404	range	#7C3DEA	Proteobacteria
+CP003845.3651285.3652805	range	#7C3DEA	Proteobacteria
+AF529060.1.1489	range	#7C3DEA	Proteobacteria
+JN979554.1.1494	range	#7C3DEA	Proteobacteria
+GQ262000.1.1379	range	#7C3DEA	Proteobacteria
+AMRX01000001.3417.4924	range	#7C3DEA	Proteobacteria
+CP003060.33729.35249	range	#7C3DEA	Proteobacteria
+JX310203.1.1530	range	#7C3DEA	Proteobacteria
+EU308479.1.1524	range	#7C3DEA	Proteobacteria
+AY643537.1.1457	range	#7C3DEA	Proteobacteria
+X93021.1.1546	range	#7C3DEA	Proteobacteria
+CP005964.2027623.2029176	range	#7C3DEA	Proteobacteria
+ALOE01000052.9.1492	range	#7C3DEA	Proteobacteria
+AB063324.1.1498	range	#7C3DEA	Proteobacteria
+KU955357.1.1449	range	#7C3DEA	Proteobacteria
+FJ169991.1.1507	range	#7C3DEA	Proteobacteria
+CP023398.2907773.2909285	range	#7C3DEA	Proteobacteria
+CP000510.91410.92948	range	#7C3DEA	Proteobacteria
+CP022089.475090.476632	range	#7C3DEA	Proteobacteria
+AY596469.1.1491	range	#7C3DEA	Proteobacteria
+CP018787.2373496.2375006	range	#7C3DEA	Proteobacteria
+CP000934.1059926.1061459	range	#7C3DEA	Proteobacteria
+ARIX01000012.135232.136747	range	#7C3DEA	Proteobacteria
+AUHU01000016.4124.5635	range	#7C3DEA	Proteobacteria
+CP000282.3213358.3214883	range	#7C3DEA	Proteobacteria
+JDFY01000001.4653144.4654659	range	#7C3DEA	Proteobacteria
+AY028398.1.1469	range	#7C3DEA	Proteobacteria
+AUHJ01000047.4103.5616	range	#7C3DEA	Proteobacteria
+ACCY01000005.46364.47877	range	#7C3DEA	Proteobacteria
+CP019650.2902205.2903746	range	#7C3DEA	Proteobacteria
+HQ658853.1.1495	range	#7C3DEA	Proteobacteria
+CP001896.2025534.2027048	range	#7C3DEA	Proteobacteria
+ARBC01000182.502.2012	range	#7C3DEA	Proteobacteria
+CP007031.3425905.3427432	range	#7C3DEA	Proteobacteria
+CP000127.999383.1000873	range	#7C3DEA	Proteobacteria
+AFWV01000002.70486.72002	range	#7C3DEA	Proteobacteria
+CP003154.2088570.2089980	range	#7C3DEA	Proteobacteria
+CP003051.3621591.3623008	range	#7C3DEA	Proteobacteria
+AF525306.1.1362	range	#7C3DEA	Proteobacteria
+AFWS02000055.527841.529351	range	#7C3DEA	Proteobacteria
+CP000453.368208.369739	range	#7C3DEA	Proteobacteria
+HQ833040.1.1487	range	#7C3DEA	Proteobacteria
+FR733667.1.1527	range	#7C3DEA	Proteobacteria
+CP005963.1579757.1581298	range	#7C3DEA	Proteobacteria
+CP003989.3560016.3561618	range	#7C3DEA	Proteobacteria
+DQ469576.1.1448	range	#7C3DEA	Proteobacteria
+M35016.1.1532	range	#7C3DEA	Proteobacteria
+AP008232.200275.201785	range	#7C3DEA	Proteobacteria
+HE574451.1.1536	range	#7C3DEA	Proteobacteria
+CP033076.2353787.2355336	range	#7C3DEA	Proteobacteria
+CP002243.8736.10280	range	#7C3DEA	Proteobacteria
+CP001085.337291.338850	range	#7C3DEA	Proteobacteria
+ATDT01000040.55.1584	range	#7C3DEA	Proteobacteria
+FN543502.247916.249457	range	#7C3DEA	Proteobacteria
+CP013940.246879.248431	range	#7C3DEA	Proteobacteria
+CP021896.1736971.1738524	range	#7C3DEA	Proteobacteria
+HG738867.2836749.2838290	range	#7C3DEA	Proteobacteria
+HG738867.3353849.3355390	range	#7C3DEA	Proteobacteria
+FO203355.3676567.3678099	range	#7C3DEA	Proteobacteria
+FM179942.1.1495	range	#7C3DEA	Proteobacteria
+AM933756.1.1500	range	#7C3DEA	Proteobacteria
+CP014007.4378249.4379797	range	#7C3DEA	Proteobacteria
+JN175338.1.1527	range	#7C3DEA	Proteobacteria
+CP018308.1274342.1275900	range	#7C3DEA	Proteobacteria
+CP012871.4670871.4672422	range	#7C3DEA	Proteobacteria
+CP014024.3129568.3131110	range	#7C3DEA	Proteobacteria
+AB273737.1.1490	range	#7C3DEA	Proteobacteria
+CP001158.275201.276740	range	#7C3DEA	Proteobacteria
+FN434113.3457889.3459416	range	#7C3DEA	Proteobacteria
+HE617160.3638249.3639777	range	#7C3DEA	Proteobacteria
+AB021400.1.1522	range	#7C3DEA	Proteobacteria
+LS483499.2662085.2663612	range	#7C3DEA	Proteobacteria
+BA000021.136582.138132	range	#7C3DEA	Proteobacteria
+LT596221.3652801.3654323	range	#7C3DEA	Proteobacteria
+LT906482.655495.657024	range	#7C3DEA	Proteobacteria
+LC127084.3318528.3320051	range	#7C3DEA	Proteobacteria
+LS483483.867029.868556	range	#7C3DEA	Proteobacteria
+BX571873.277164.278708	range	#7C3DEA	Proteobacteria
+AM942759.3876856.3878397	range	#7C3DEA	Proteobacteria
+LS483498.48094.49624	range	#7C3DEA	Proteobacteria
+LN681227.48436.49966	range	#7C3DEA	Proteobacteria
+AJ233419.1.1499	range	#7C3DEA	Proteobacteria
+LUTP01000101.49.1595	range	#7C3DEA	Proteobacteria
+Z96096.1.1497	range	#7C3DEA	Proteobacteria
+CP020350.218058.219610	range	#7C3DEA	Proteobacteria
+AY837748.1.1498	range	#7C3DEA	Proteobacteria
+CP007044.607014.608559	range	#7C3DEA	Proteobacteria
+JN175329.1.1534	range	#7C3DEA	Proteobacteria
+CP003403.744028.745572	range	#7C3DEA	Proteobacteria
+CP012930.3565030.3566585	range	#7C3DEA	Proteobacteria
+CP013046.5295338.5296889	range	#7C3DEA	Proteobacteria
+CP001707.1159862.1161388	range	#7C3DEA	Proteobacteria
+AAQJ02000001.641042.642519	range	#7C3DEA	Proteobacteria
+GQ857549.1.1488	range	#7C3DEA	Proteobacteria
+AGVT01000012.60.1581	range	#7C3DEA	Proteobacteria
+GU205101.1.1477	range	#7C3DEA	Proteobacteria
+AEGW02000009.554995.556509	range	#7C3DEA	Proteobacteria
+U89300.1.1491	range	#7C3DEA	Proteobacteria
+AUKJ01000022.3673.5187	range	#7C3DEA	Proteobacteria
+AB301717.1.1464	range	#7C3DEA	Proteobacteria
+AY007296.1.1499	range	#7C3DEA	Proteobacteria
+CP002738.392605.394125	range	#7C3DEA	Proteobacteria
+AB501287.1.1488	range	#7C3DEA	Proteobacteria
+LN614830.597204.598735	range	#7C3DEA	Proteobacteria
+AF513979.1.1533	range	#7C3DEA	Proteobacteria
+LT594095.3355866.3357382	range	#7C3DEA	Proteobacteria
+AP017381.1716844.1718363	range	#7C3DEA	Proteobacteria
+CP000323.651956.653541	range	#7C3DEA	Proteobacteria
+DQ486493.1.1501	range	#7C3DEA	Proteobacteria
+AKGD01000001.2155039.2156557	range	#7C3DEA	Proteobacteria
+ATVI01000001.120420.121923	range	#7C3DEA	Proteobacteria
+JOMH01000001.1092401.1093910	range	#7C3DEA	Proteobacteria
+EF154515.1.1487	range	#7C3DEA	Proteobacteria
+AB053122.1.1536	range	#7C3DEA	Proteobacteria
+Y17112.1.1395	range	#7C3DEA	Proteobacteria
+CP013251.1260637.1262181	range	#7C3DEA	Proteobacteria
+CP000155.1588347.1589881	range	#7C3DEA	Proteobacteria
+Y13299.1.1519	range	#7C3DEA	Proteobacteria
+AJ295144.1.1532	range	#7C3DEA	Proteobacteria
+MF461058.1.1452	range	#7C3DEA	Proteobacteria
+FN869568.864796.866328	range	#7C3DEA	Proteobacteria
+CP028367.2846063.2847607	range	#7C3DEA	Proteobacteria
+AY671975.1.1408	range	#7C3DEA	Proteobacteria
+CP015243.3245868.3247412	range	#7C3DEA	Proteobacteria
+AM941746.1.1428	range	#7C3DEA	Proteobacteria
+AB681768.1.1465	range	#7C3DEA	Proteobacteria
+AY136131.1.1533	range	#7C3DEA	Proteobacteria
+DQ917760.1.1508	range	#7C3DEA	Proteobacteria
+AF063027.1.1534	range	#7C3DEA	Proteobacteria
+AB098511.1.1432	range	#7C3DEA	Proteobacteria
+AB288092.1.1498	range	#7C3DEA	Proteobacteria
+AB006767.1.1452	range	#7C3DEA	Proteobacteria
+AB006763.1.1465	range	#7C3DEA	Proteobacteria
+HF680312.2583919.2585457	range	#7C3DEA	Proteobacteria
+AJ315983.1.1478	range	#7C3DEA	Proteobacteria
+AUAF01000218.3412.4931	range	#7C3DEA	Proteobacteria
+AWGA01000005.47.1564	range	#7C3DEA	Proteobacteria
+LN908249.1805903.1807440	range	#7C3DEA	Proteobacteria
+X60418.1.1499	range	#7C3DEA	Proteobacteria
+AFFP02000054.75.1590	range	#7C3DEA	Proteobacteria
+AE016827.1721185.1722725	range	#7C3DEA	Proteobacteria
+CP003745.863907.865434	range	#7C3DEA	Proteobacteria
+CP002667.695818.697342	range	#7C3DEA	Proteobacteria
+CP012959.321298.322840	range	#7C3DEA	Proteobacteria
+LS483299.297743.299270	range	#7C3DEA	Proteobacteria
+LS483411.443489.445015	range	#7C3DEA	Proteobacteria
+EF028328.1.1487	range	#7C3DEA	Proteobacteria
+JX458465.1.1497	range	#7C3DEA	Proteobacteria
+CP001157.4279431.4280965	range	#7C3DEA	Proteobacteria
+CP004061.694257.695795	range	#7C3DEA	Proteobacteria
+JF775510.1.1499	range	#7C3DEA	Proteobacteria
+AB176554.1.1515	range	#7C3DEA	Proteobacteria
+CP003230.259814.261339	range	#7C3DEA	Proteobacteria
+CP002776.260958.262485	range	#7C3DEA	Proteobacteria
+ARCL01000068.266.1725	range	#7C3DEA	Proteobacteria
+ATTE01000001.2869404.2870922	range	#7C3DEA	Proteobacteria
+FR690946.1.2316	range	#7C3DEA	Proteobacteria
+AJ252143.1.1514	range	#7C3DEA	Proteobacteria
+AM259915.1.1448	range	#7C3DEA	Proteobacteria
+AOBV01000022.3554.5081	range	#7C3DEA	Proteobacteria
+CP001133.523565.525116	range	#7C3DEA	Proteobacteria
+AMSD01000002.83632.85176	range	#7C3DEA	Proteobacteria
+AP018045.3169959.3171497	range	#7C3DEA	Proteobacteria
+AY538749.1.1536	range	#7C3DEA	Proteobacteria
+CP013178.4215530.4217087	range	#7C3DEA	Proteobacteria
+AM945651.1.1344	range	#7C3DEA	Proteobacteria
+ASAI01000076.6169.7721	range	#7C3DEA	Proteobacteria
+LK021130.752052.753595	range	#7C3DEA	Proteobacteria
+CP020453.3389789.3391345	range	#7C3DEA	Proteobacteria
+X74686.1.1466	range	#7C3DEA	Proteobacteria
+CP012950.192554.194094	range	#7C3DEA	Proteobacteria
+JQ663917.1.1462	range	#7C3DEA	Proteobacteria
+CP025537.599880.601438	range	#7C3DEA	Proteobacteria
+HQ890464.1.1471	range	#7C3DEA	Proteobacteria
+CP008884.4829359.4830903	range	#7C3DEA	Proteobacteria
+AB091196.1.1526	range	#7C3DEA	Proteobacteria
+EU682683.1.1531	range	#7C3DEA	Proteobacteria
+FJ527678.1.1516	range	#7C3DEA	Proteobacteria
+CP003470.434798.436224	range	#7C3DEA	Proteobacteria
+EU741687.1.1384	range	#7C3DEA	Proteobacteria
+ATVD01000003.563074.564596	range	#7C3DEA	Proteobacteria
+KM374763.1.1514	range	#7C3DEA	Proteobacteria
+AWZR01000002.313150.314674	range	#7C3DEA	Proteobacteria
+CAQP01000054.954.2478	range	#7C3DEA	Proteobacteria
+AM283465.1.1509	range	#7C3DEA	Proteobacteria
+CP003093.3414512.3416060	range	#7C3DEA	Proteobacteria
+AUBD01000011.3524.5041	range	#7C3DEA	Proteobacteria
+JN571747.1.1452	range	#7C3DEA	Proteobacteria
+AJ519986.1.1497	range	#7C3DEA	Proteobacteria
+CP012947.4639010.4640556	range	#7C3DEA	Proteobacteria
+AF536764.1.1452	range	#7C3DEA	Proteobacteria
+KR493097.1.1472	range	#7C3DEA	Proteobacteria
+BX842650.295616.297109	range	#7C3DEA	Proteobacteria
+JQLW01000012.87223.88743	range	#7C3DEA	Proteobacteria
+ATTH01000001.2391699.2393203	range	#7B2EAA	Rhodothermaeota
+CP001959.1912474.1913976	range	#CEF1EE	Spirochaetes
+GU993264.1.1490	range	#CEF1EE	Spirochaetes
+Z21632.1.1445	range	#CEF1EE	Spirochaetes
+CP000786.1121323.1122598	range	#CEF1EE	Spirochaetes
+CP002959.3819378.3820883	range	#CEF1EE	Spirochaetes
+CP000013.446773.448310	range	#CEF1EE	Spirochaetes
+CP006939.1212945.1214445	range	#CEF1EE	Spirochaetes
+AGDT01000020.349129.350661	range	#CEF1EE	Spirochaetes
+KC990435.1.1400	range	#CEF1EE	Spirochaetes
+AB910748.1.1433	range	#A3DEAE	Synergistetes
+JAFY01000005.3122.4624	range	#A3DEAE	Synergistetes
+CP001997.417874.419393	range	#A3DEAE	Synergistetes
+AEIV01000001.680844.682347	range	#A3DEAE	Synergistetes
+CU463952.1.1334	range	#A3DEAE	Synergistetes
+ABTR02000001.780170.781679	range	#A3DEAE	Synergistetes
+EF436500.1.1394	range	#A3DEAE	Synergistetes
+CP001818.1104895.1106404	range	#A3DEAE	Synergistetes
+CP003096.442271.443789	range	#A3DEAE	Synergistetes
+LS483439.71876.73367	range	#E43AA8	Tenericutes
+CP000061.271735.273265	range	#E43AA8	Tenericutes
+AE017263.191851.193375	range	#E43AA8	Tenericutes
+AY189129.1.1515	range	#E43AA8	Tenericutes
+CP027019.1028172.1029703	range	#E43AA8	Tenericutes
+CP006932.105590.107114	range	#E43AA8	Tenericutes
+FP671138.667493.669012	range	#E43AA8	Tenericutes
+AP014584.31907.33426	range	#E43AA8	Tenericutes
+CP009415.4513.6037	range	#E43AA8	Tenericutes
+JRFF01000022.152793.154320	range	#E43AA8	Tenericutes
+ATXH01000052.220.1687	range	#A598BE	Thermodesulfobacteria
+CP002683.864391.865952	range	#A598BE	Thermodesulfobacteria
+CP008796.1299211.1300785	range	#A598BE	Thermodesulfobacteria
+CP002829.235688.237255	range	#A598BE	Thermodesulfobacteria
+AF332514.1.1497	range	#A598BE	Thermodesulfobacteria
+ATXI01000006.68852.70404	range	#A598BE	Thermodesulfobacteria
+EU980631.27879.29424	range	#80CF76	Thermotogae
+CP003532.219075.220482	range	#80CF76	Thermotogae
+CP003257.833952.835372	range	#80CF76	Thermotogae
+CP000879.2041444.2042943	range	#80CF76	Thermotogae
+CP000771.812951.814312	range	#80CF76	Thermotogae
+CP001185.683454.684854	range	#80CF76	Thermotogae
+CP002351.1920232.1921768	range	#80CF76	Thermotogae
+AJ872268.40096.41656	range	#80CF76	Thermotogae
+BAYY01000283.3055.4588	range	#E74C42	Unclassified Bacteria
+MNZU01000010.3802.5288	range	#E74C42	Unclassified Bacteria
+AY345389.1.1398	range	#E74C42	Unclassified Bacteria
+KX123309.1.1880	range	#E74C42	Unclassified Bacteria
+META01000003.217527.219031	range	#E74C42	Unclassified Bacteria
+METB01000001.533110.534644	range	#E74C42	Unclassified Bacteria
+CP011212.677786.679269	range	#E74C42	Unclassified Bacteria
+LBPE01000008.125169.126706	range	#E74C42	Unclassified Bacteria
+METK01000005.18452.19989	range	#E74C42	Unclassified Bacteria
+LBSF01000011.4877.6421	range	#E74C42	Unclassified Bacteria
+KX123489.1.1544	range	#E74C42	Unclassified Bacteria
+LBWK01000001.480489.482028	range	#E74C42	Unclassified Bacteria
+KX123576.1.1485	range	#E74C42	Unclassified Bacteria
+MHDG01000024.6671.8154	range	#E74C42	Unclassified Bacteria
+MNWJ01000041.315.1840	range	#E74C42	Unclassified Bacteria
+MNWM01000025.8427.9769	range	#E74C42	Unclassified Bacteria
+MNWN01000015.28951.30462	range	#E74C42	Unclassified Bacteria
+MNZI01000019.18300.19881	range	#E74C42	Unclassified Bacteria
+KX123508.1.1526	range	#E74C42	Unclassified Bacteria
+KX123557.1.1492	range	#E74C42	Unclassified Bacteria
+KX123401.1.2071	range	#E74C42	Unclassified Bacteria
+KX123571.1.1486	range	#E74C42	Unclassified Bacteria
+LCHO01000019.8159.9647	range	#E74C42	Unclassified Bacteria
+KX123493.1.1536	range	#E74C42	Unclassified Bacteria
+KX123418.1.1878	range	#E74C42	Unclassified Bacteria
+LCOU01000026.4898.6395	range	#E74C42	Unclassified Bacteria
+KX123448.1.1621	range	#E74C42	Unclassified Bacteria
+LCBR01000016.7135.8686	range	#E74C42	Unclassified Bacteria
+KX123409.1.1924	range	#E74C42	Unclassified Bacteria
+KX123634.1.1336	range	#E74C42	Unclassified Bacteria
+KX123475.1.1558	range	#E74C42	Unclassified Bacteria
+LCAA01000005.32575.34026	range	#E74C42	Unclassified Bacteria
+KX123629.1.1447	range	#E74C42	Unclassified Bacteria
+KX123531.1.1502	range	#E74C42	Unclassified Bacteria
+LCCT01000003.75191.76924	range	#E74C42	Unclassified Bacteria
+LBVI01000009.76614.78085	range	#E74C42	Unclassified Bacteria
+LCID01000036.659.2195	range	#E74C42	Unclassified Bacteria
+LCQX01000020.307.2133	range	#E74C42	Unclassified Bacteria
+AB200304.1.1489	range	#E74C42	Unclassified Bacteria
+AB637319.1.1480	range	#E74C42	Unclassified Bacteria
+AB974082.1.1445	range	#E74C42	Unclassified Bacteria
+AB974087.1.1435	range	#E74C42	Unclassified Bacteria
+AF407715.1.1493	range	#E74C42	Unclassified Bacteria
+AM697380.1.1520	range	#E74C42	Unclassified Bacteria
+AMFJ01036405.2353.3854	range	#E74C42	Unclassified Bacteria
+AY218567.1.1494	range	#E74C42	Unclassified Bacteria
+AY559412.1.1532	range	#E74C42	Unclassified Bacteria
+DQ404787.1.1467	range	#E74C42	Unclassified Bacteria
+DQ798500.1.1370	range	#E74C42	Unclassified Bacteria
+DQ802475.1.1390	range	#E74C42	Unclassified Bacteria
+DQ905837.1.1553	range	#E74C42	Unclassified Bacteria
+EF510809.1.1491	range	#E74C42	Unclassified Bacteria
+EF574142.1.1497	range	#E74C42	Unclassified Bacteria
+EF574848.1.1526	range	#E74C42	Unclassified Bacteria
+EF602468.1.1421	range	#E74C42	Unclassified Bacteria
+EF602469.1.1420	range	#E74C42	Unclassified Bacteria
+EU287245.1.1504	range	#E74C42	Unclassified Bacteria
+EU592372.1.1428	range	#E74C42	Unclassified Bacteria
+FJ535257.1.1308	range	#E74C42	Unclassified Bacteria
+FJ820456.1.1493	range	#E74C42	Unclassified Bacteria
+FM955655.1.1496	range	#E74C42	Unclassified Bacteria
+FN562884.1.1223	range	#E74C42	Unclassified Bacteria
+GU118862.1.1444	range	#E74C42	Unclassified Bacteria
+GU437651.1.1558	range	#E74C42	Unclassified Bacteria
+HE681411.1.1560	range	#E74C42	Unclassified Bacteria
+HM069055.1.1463	range	#E74C42	Unclassified Bacteria
+HM187182.1.1477	range	#E74C42	Unclassified Bacteria
+HM366507.1.1484	range	#E74C42	Unclassified Bacteria
+HQ190545.1.1508	range	#E74C42	Unclassified Bacteria
+HQ225190.1.1503	range	#E74C42	Unclassified Bacteria
+HQ588390.1.1353	range	#E74C42	Unclassified Bacteria
+HQ860485.1.1449	range	#E74C42	Unclassified Bacteria
+JF320723.1.1460	range	#E74C42	Unclassified Bacteria
+JF979273.1.1469	range	#E74C42	Unclassified Bacteria
+JN038877.1.1496	range	#E74C42	Unclassified Bacteria
+JN091913.1.1573	range	#E74C42	Unclassified Bacteria
+JN672497.1.1315	range	#E74C42	Unclassified Bacteria
+JN867415.1.1475	range	#E74C42	Unclassified Bacteria
+JQ195843.1.1295	range	#E74C42	Unclassified Bacteria
+JQ287479.1.1498	range	#E74C42	Unclassified Bacteria
+JQ316675.1.1495	range	#E74C42	Unclassified Bacteria
+JQ426323.1.1517	range	#E74C42	Unclassified Bacteria
+JQ448776.1.1409	range	#E74C42	Unclassified Bacteria
+JX105677.1.1417	range	#E74C42	Unclassified Bacteria
+JX120421.1.1497	range	#E74C42	Unclassified Bacteria
+JX221735.1.1469	range	#E74C42	Unclassified Bacteria
+JX222600.1.1478	range	#E74C42	Unclassified Bacteria
+KC191774.1.1535	range	#E74C42	Unclassified Bacteria
+KC465685.1.1498	range	#E74C42	Unclassified Bacteria
+KC554184.1.1512	range	#E74C42	Unclassified Bacteria
+KF798602.1.1461	range	#E74C42	Unclassified Bacteria
+KJ877525.1.1326	range	#E74C42	Unclassified Bacteria
+KM820506.1.1479	range	#E74C42	Unclassified Bacteria
+KM823734.1.1548	range	#E74C42	Unclassified Bacteria
+KU868083.1.1548	range	#E74C42	Unclassified Bacteria
+KU868084.1.1541	range	#E74C42	Unclassified Bacteria
+KU868085.1.1488	range	#E74C42	Unclassified Bacteria
+KU868086.1.1464	range	#E74C42	Unclassified Bacteria
+KU868087.1.1554	range	#E74C42	Unclassified Bacteria
+KU868088.1.1548	range	#E74C42	Unclassified Bacteria
+KU868089.1.1547	range	#E74C42	Unclassified Bacteria
+KU868090.1.1428	range	#E74C42	Unclassified Bacteria
+KU868091.1.1472	range	#E74C42	Unclassified Bacteria
+KU868093.1.1375	range	#E74C42	Unclassified Bacteria
+KU868097.1.1517	range	#E74C42	Unclassified Bacteria
+KU868098.1.1347	range	#E74C42	Unclassified Bacteria
+KU868099.1.1468	range	#E74C42	Unclassified Bacteria
+KU868100.1.1538	range	#E74C42	Unclassified Bacteria
+KU868105.1.1491	range	#E74C42	Unclassified Bacteria
+KU978252.1.1532	range	#E74C42	Unclassified Bacteria
+KU978255.1.1529	range	#E74C42	Unclassified Bacteria
+LC086660.1.1502	range	#E74C42	Unclassified Bacteria
+LC086674.1.1506	range	#E74C42	Unclassified Bacteria
+LN870770.1.1327	range	#E74C42	Unclassified Bacteria
+MF092312.1.1491	range	#E74C42	Unclassified Bacteria
+EU795196.15381.16884	range	#E74C42	Unclassified Bacteria
+AY005448.1.1448	range	#E74C42	Unclassified Bacteria
+HQ462537.1.1224	range	#E74C42	Unclassified Bacteria
+KC990413.1.1451	range	#E74C42	Unclassified Bacteria
+KC990415.1.1438	range	#E74C42	Unclassified Bacteria
+KC990432.1.1399	range	#E74C42	Unclassified Bacteria
+DQ256281.1.1484	range	#E74C42	Unclassified Bacteria
+ARQD01000002.97686.99234	range	#E74C42	Unclassified Bacteria
+ABEA03000104.32049.33587	range	#E5BC82	Verrucomicrobia
+CP001032.2051334.2052884	range	#E5BC82	Verrucomicrobia
+CP007053.2151573.2153136	range	#E5BC82	Verrucomicrobia
+CP001998.2186477.2188018	range	#E5BC82	Verrucomicrobia
+AY388649.1.1360	range	#E5BC82	Verrucomicrobia
+GQ452897.1.1490	range	#E5BC82	Verrucomicrobia
+MNWT01000005.126927.128460	range	#E5BC82	Verrucomicrobia
+MIDP01000022.57637.59176	range	#E5BC82	Verrucomicrobia
+MIDS01000601.2780.4346	range	#E5BC82	Verrucomicrobia
+CP001071.320473.321977	range	#E5BC82	Verrucomicrobia
+DQ302104.1.1429	range	#E5BC82	Verrucomicrobia
+ABOX02000035.71375.72936	range	#E5BC82	Verrucomicrobia
+ABIZ01000001.5019483.5021021	range	#E5BC82	Verrucomicrobia
+AY962414.1.1799	range	#EADDC5	Annelida
+JX495403.1.1654	range	#EB77DE	Apicomplexa
+AY508462.1.1741	range	#EB77DE	Apicomplexa
+EU660038.1.1744	range	#EB77DE	Apicomplexa
+AF109678.1.1797	range	#EB77DE	Apicomplexa
+EF209903.1.1836	range	#BE72EC	Arthropoda
+AADK01036068.668.2582	range	#BE72EC	Arthropoda
+LT854279.1775917.1777706	range	#D2F6DA	Ascomycota
+CP022810.27977.29764	range	#D2F6DA	Ascomycota
+JN940952.1.1671	range	#D2F6DA	Ascomycota
+KF952247.1.1715	range	#D2F6DA	Ascomycota
+AB002068.1.1767	range	#D2F6DA	Ascomycota
+ABRK01002815.6135.7917	range	#D2F6DA	Ascomycota
+ABVF01000122.4504.6293	range	#D2F6DA	Ascomycota
+EF631616.1.1702	range	#D2F6DA	Ascomycota
+AAEC03000009.18920.20721	range	#D2F6DA	Ascomycota
+ABBB01000249.31423.33216	range	#D2F6DA	Ascomycota
+CP017820.2399789.2401586	range	#D2F6DA	Ascomycota
+FM992695.1863370.1865146	range	#D2F6DA	Ascomycota
+AB013555.1.1782	range	#D2F6DA	Ascomycota
+HQ876033.1.1699	range	#D2F6DA	Ascomycota
+AJ508270.1.1710	range	#D2F6DA	Ascomycota
+AB013522.1.1782	range	#D2F6DA	Ascomycota
+HQ659556.1.1963	range	#D2F6DA	Ascomycota
+JN941111.1.1759	range	#D2F6DA	Ascomycota
+AB536782.1.1476	range	#D2F6DA	Ascomycota
+AY046268.1.1746	range	#D2F6DA	Ascomycota
+AB016510.1.1753	range	#D2F6DA	Ascomycota
+CR382124.1505732.1507529	range	#D2F6DA	Ascomycota
+AACE03000034.3.1790	range	#D2F6DA	Ascomycota
+HE576754.582094.583892	range	#D2F6DA	Ascomycota
+CP030956.468794.470576	range	#D2F6DA	Ascomycota
+CP030956.537381.539161	range	#D2F6DA	Ascomycota
+X89525.1.1791	range	#D2F6DA	Ascomycota
+CP027654.60781.62564	range	#D2F6DA	Ascomycota
+CP019493.1507565.1509369	range	#D2F6DA	Ascomycota
+JQ698923.1.1749	range	#D2F6DA	Ascomycota
+AY251644.1.1842	range	#D2F6DA	Ascomycota
+CP009075.30860.32648	range	#D2F6DA	Ascomycota
+EU334678.1.2163	range	#D2F6DA	Ascomycota
+AB250414.1.1747	range	#D2F6DA	Ascomycota
+DQ493955.18673.20460	range	#D2F6DA	Ascomycota
+AB048285.1.1773	range	#D2F6DA	Ascomycota
+CP003011.1881005.1882791	range	#D2F6DA	Ascomycota
+JQ698935.1.1750	range	#D2F6DA	Ascomycota
+GQ452854.1.1786	range	#89D7F5	Bacillariophyta
+KY364696.1.1802	range	#89D7F5	Bacillariophyta
+AY657007.1.1777	range	#E13AD7	Basidiomycota
+DQ113912.1.1792	range	#E13AD7	Basidiomycota
+ABRE01017991.4108.5932	range	#E13AD7	Basidiomycota
+M92991.1.1793	range	#E13AD7	Basidiomycota
+AY705952.1.1797	range	#E13AD7	Basidiomycota
+DQ092924.1.1790	range	#E13AD7	Basidiomycota
+DQ437681.1.1769	range	#E13AD7	Basidiomycota
+AY943950.1.1793	range	#E13AD7	Basidiomycota
+AF026570.1.1805	range	#E13AD7	Basidiomycota
+EU192364.1.1538	range	#E13AD7	Basidiomycota
+CP025762.1473552.1475344	range	#E13AD7	Basidiomycota
+EF014364.1.1921	range	#D5BB67	Blastocladiomycota
+M32703.1.1791	range	#F6F616	Chlorophyta
+ACJH01008033.984.2764	range	#F6F616	Chlorophyta
+CP000592.126178.127937	range	#F6F616	Chlorophyta
+X59733.1.1826	range	#627746	Chordata
+FP671120.154005.155857	range	#627746	Chordata
+JSAF02003852.21844.23678	range	#627746	Chordata
+LBLP01002047.4787.6631	range	#627746	Chordata
+HA782847.3.1866	range	#627746	Chordata
+ADAR01000191.5270.7050	range	#459853	Chytridiomycota
+AB586075.1.2152	range	#459853	Chytridiomycota
+ASRE01017410.444.2254	range	#459853	Chytridiomycota
+U17356.1.1750	range	#44BBF1	Ciliophora
+HE820726.1.1750	range	#44BBF1	Ciliophora
+AF149979.3391.5139	range	#44BBF1	Ciliophora
+ABAV01023297.1433.3227	range	#E3BEB7	Cnidaria
+AJWG01001021.733.2594	range	#C29974	Evosea
+AHGT01000163.1512.2973	range	#C0CEBC	Fornicata
+AHAL01000301.1474.3265	range	#956120	Haptophyta
+JF489961.1.1799	range	#956120	Haptophyta
+GAMG01021469.3943.5734	range	#956120	Haptophyta
+ADVJ01006144.15423.17227	range	#DEE6EE	Oomycota
+JNBR01001696.641.2441	range	#DEE6EE	Oomycota
+AY305326.1543.3351	range	#ABCDF6	Perkinsozoa
+L10828.1.1787	range	#F0AADC	Placozoa
+AF244903.1.1830	range	#5DD3AC	Preaxostyla
+AH015107.1010.2233	range	#71A8D2	Rhodophyta
+AP006500.506489.508279	range	#71A8D2	Rhodophyta
+AC158206.7522.9332	range	#B1D789	Streptophyta
+AF313575.1.1711	range	#B1D789	Streptophyta
+CP002685.3706.5513	range	#B1D789	Streptophyta
+CP023121.12675027.12676823	range	#B1D789	Streptophyta
+CX109058.1.1487	range	#B1D789	Streptophyta
+ABXC03002691.100887.102690	range	#B1D789	Streptophyta
+AC213764.121050.122926	range	#B1D789	Streptophyta
+AEWC01041800.3159.4639	range	#B1D789	Streptophyta
+AM462492.29057.30376	range	#B1D789	Streptophyta
+AF408427.1.1805	range	#F6ACB8	Bigyra
+AF153206.1.1748	range	#E4F1A4	Breviatea
+KC433554.1.1820	range	#E4F1A4	Breviatea
+AF084618.1.1765	range	#6AF62E	Choanoflagellata
+AY149896.1.1770	range	#6AF62E	Choanoflagellata
+FJ969717.1.1827	range	#8AE762	Cryptophyceae
+U53132.1.1770	range	#8AE762	Cryptophyceae
+AB088305.1.1802	range	#42F5AD	Dinophyceae
+AF330215.1.1759	range	#42F5AD	Dinophyceae
+AF349564.1.1797	range	#57D1C1	Filasterea
+AF271998.1.1795	range	#57D1C1	Filasterea
+X70803.22.1792	range	#57828A	Glaucocystophyceae
+FR865776.2.1778	range	#57828A	Glaucocystophyceae
+Y19155.1.1797	range	#45E64F	Ichthyosporea
+AF117776.1.1814	range	#9EEECF	Pelagophyceae
+FN564440.1.1804	range	#A9F49F	Phaeophyceae
+AY050178.1.1805	range	#AEB29A	Apusomonadida
+ADVD01001051.10315.12134	range	#AEB29A	Apusomonadida
+AY117417.1.1863	range	#EF807E	Jakobida
+AY117418.1.1844	range	#EF807E	Jakobida
+AY117420.1.1867	range	#29B3C2	Malawimonadida
+FJ816018.1.1805	range	#4DF1C5	Rotosphaerida
+AJ564773.1.1787	range	#EEDAF6	Telonemida
+KJ757052.1.1797	range	#B94CE9	Unclassified Eukaryota
+KJ763355.1.1815	range	#B94CE9	Unclassified Eukaryota
+DQ310296.1.1397	range	#B94CE9	Unclassified Eukaryota
+AY546685.1.1902	range	#746750	Zoopagomycota
+CCXY01000234.9028.10480	range	#DEBBF6	Unclassified
+CXWL01021703.818.2299	range	#DEBBF6	Unclassified
+ADKI01001867.5974.7442	range	#DEBBF6	Unclassified
+CETV01269389.578.2020	range	#DEBBF6	Unclassified
+FPLS01004494.24.1583	range	#DEBBF6	Unclassified
+FPLS01019909.10.1526	range	#DEBBF6	Unclassified
+FPLS01040027.10.1512	range	#DEBBF6	Unclassified
+LFFM01006973.168.1628	range	#DEBBF6	Unclassified
+HQ783234.1.1448	range	#DEBBF6	Unclassified
+JN474124.1.1411	range	#DEBBF6	Unclassified
+ADGC01001322.8721.10240	range	#DEBBF6	Unclassified
+APMI01000363.28929.30436	range	#DEBBF6	Unclassified
