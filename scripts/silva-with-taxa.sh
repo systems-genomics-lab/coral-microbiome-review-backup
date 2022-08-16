@@ -22,7 +22,8 @@ rm -fr $in.tre
 
 seqkit grep -f $in.txt /data/silva/SILVA138.fas.gz > $in.fas
 
-mafft --auto --reorder --maxiterate 1000 --thread $cpus $in.fas > $in.aln
+# mafft --auto --reorder --maxiterate 1000 --thread $cpus $in.fas > $in.aln
+mafft-ginsi --reorder --maxiterate 1000 --thread $cpus $in.fas > $in.aln
 
 trimal -in $in.aln -out $in.trimmed.aln -gappyout
 
