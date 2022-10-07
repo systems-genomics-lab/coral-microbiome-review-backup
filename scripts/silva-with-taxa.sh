@@ -15,12 +15,16 @@ in=coral-microbiome
 
 cd $PROJECT/silva-with-taxa/
 
+set +e
+grep -v -f exclude.txt $in.txt > $in.clean.txt
+set -e
+
 rm -fr $in.fas
 rm -fr $in.aln
 rm -fr $in.trimmed.aln
 rm -fr $in.tre
 
-seqkit grep -f $in.txt /data/silva/SILVA138.fas.gz > $in.fas
+seqkit grep -f $in.clean.txt /data/silva/SILVA138.fas.gz > $in.fas
 
 # mafft --auto --reorder --maxiterate 1000 --thread $cpus $in.fas > $in.aln
 mafft-ginsi --reorder --maxiterate 1000 --thread $cpus $in.fas > $in.aln
@@ -32,5 +36,5 @@ FastTreeMP -gamma -nt -gtr -slow -notop -nj -boot 1000 $in.trimmed.aln > $in.tre
 # Rscript -e 'rmarkdown::render("/projects/coral-microbiome/coral-microbiome.Rmd")'
 
 cd $PROJECT/
-git add --all ; git commit -m "SILVA-based tree" ; git push
+# git add --all ; git commit -m "SILVA-based tree" ; git push
 
